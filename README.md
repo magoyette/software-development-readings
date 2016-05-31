@@ -13,4 +13,5 @@ My personal compilation of online texts about software development.
 
 ### Test-Driven Development
 
+- Jason Gorman, [Squaring The Circle of "Tell, Don't Ask" vs. Test As Close To Implementation As Possible](http://codemanship.co.uk/parlezuml/blog/?postid=1379). A blog post about how to find balance between testing the internal state of objects and Tell, Don't Ask.
 - Martin Fowler, [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html). An article about the difference between mocks and stubs. Also compares the classical and mockist TDD styles.
