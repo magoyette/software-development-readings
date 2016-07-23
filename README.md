@@ -8,8 +8,8 @@ My personal compilation of online texts about software development.
 
 - [Java](#java)
   - [Javadoc](#javadoc)
-- [Unit Testing](#unit-testing)
-  - [Test-Driven Development](#test-driven-development)
+- [Testing](#testing)
+  - [Unit Testing and Test-Driven Development](#unit-testing-and-test-driven-development)
 
 ## Java
 
@@ -17,9 +17,9 @@ My personal compilation of online texts about software development.
 
 - Stephen Colebourne, [Javadoc coding standards](http://blog.joda.org/2012/11/javadoc-coding-standards.html). A blog post about how to write good Javadoc.
 
-## Unit Testing
+## Testing
 
-### Test-Driven Development
+### Unit Testing and Test-Driven Development
 
 - James Carr, [TDD Anti-Patterns](http://blog.james-carr.org/2006/11/03/tdd-anti-patterns/). A short catalog of unit testing anti-patterns.
 - James Shore, [Testing Private Methods](http://www.jamesshore.com/Blog/Testing-Private-Methods.html). An explanation of why private methods should not be tested directly.
