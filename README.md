@@ -6,10 +6,18 @@ My personal compilation of online texts about software development.
 
 ## Table of Contents
 
+- [Software Design and Architecture](#software-design-and-architecture)
+  - [Object-Oriented Programming](#object-oriented-programming)
 - [Java](#java)
   - [Javadoc](#javadoc)
 - [Testing](#testing)
   - [Unit Testing and Test-Driven Development](#unit-testing-and-test-driven-development)
+
+## Software Design and Architecture
+
+## Object-Oriented Programming
+
+- Robert Martin, [Dance you Imps!](https://8thlight.com/blog/uncle-bob/2013/10/01/Dance-You-Imps.html). A blog post about the differences between relational tables and objects.
 
 ## Java
 
