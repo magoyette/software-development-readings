@@ -35,3 +35,4 @@ My personal compilation of online texts about software development.
 - Martin Fowler, [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html). An article about the difference between mocks and stubs. Also compares the classical and mockist TDD styles.
 - Robert Martin, [The Frenzied Panic of Rushing](https://8thlight.com/blog/uncle-bob/2013/03/11/TheFrenziedPanicOfRushing.html). A blog post about why TDD does not slow down development.
 - Robert Martin, [The Pragmatics of TDD](https://8thlight.com/blog/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html). A blog post about when TDD should be used.
+- Robert Martin, [When Should You Think?](https://8thlight.com/blog/uncle-bob/2014/03/11/when-to-think.html). A blog post about TDD and thinking before coding.
