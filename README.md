@@ -12,6 +12,7 @@ My personal compilation of online texts about software development.
   - [Javadoc](#javadoc)
 - [Testing](#testing)
   - [Unit Testing and Test-Driven Development](#unit-testing-and-test-driven-development)
+  - [Test Doubles](#test-doubles)
 
 ## Software Design and Architecture
 
@@ -36,3 +37,7 @@ My personal compilation of online texts about software development.
 - Robert Martin, [The Frenzied Panic of Rushing](https://8thlight.com/blog/uncle-bob/2013/03/11/TheFrenziedPanicOfRushing.html). A blog post about why TDD does not slow down development.
 - Robert Martin, [The Pragmatics of TDD](https://8thlight.com/blog/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html). A blog post about when TDD should be used.
 - Robert Martin, [When Should You Think?](https://8thlight.com/blog/uncle-bob/2014/03/11/when-to-think.html). A blog post about TDD and thinking before coding.
+
+### Test Doubles
+
+- Robert Martin, [When to Mock](https://8thlight.com/blog/uncle-bob/2014/05/10/WhenToMock.html). A blog post about when mocks should be used.
