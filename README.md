@@ -40,4 +40,5 @@ My personal compilation of online texts about software development.
 
 ### Test Doubles
 
+- J. B. Rainsberger, [When is it safe to introduce test doubles?](http://blog.thecodewhisperer.com/permalink/when-is-it-safe-to-introduce-test-doubles/). A blog post that explains when to use mocks with the Domain-Driven Design concepts of service, entity and value.
 - Robert Martin, [When to Mock](https://8thlight.com/blog/uncle-bob/2014/05/10/WhenToMock.html). A blog post about when mocks should be used.
