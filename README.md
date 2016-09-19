@@ -12,6 +12,7 @@ My personal compilation of online texts about software development.
   - [Best Practices](#best-practices)
 - [Software Design and Architecture](#software-design-and-architecture)
   - [Object-Oriented Programming](#object-oriented-programming)
+  - [Software Design](#software-design)
 - [Testing](#testing)
   - [Unit Testing and Test-Driven Development](#unit-testing-and-test-driven-development)
 
@@ -33,6 +34,10 @@ My personal compilation of online texts about software development.
 ### Object-Oriented Programming
 
 - Robert Martin, [Dance you Imps!](https://8thlight.com/blog/uncle-bob/2013/10/01/Dance-You-Imps.html). A blog post about the differences between relational tables and objects.
+
+### Software Design
+
+- James Shore, [Quality With a Name](http://www.jamesshore.com/Articles/Quality-With-a-Name.html). A blog post about what is good design.
 
 ## Testing
 
