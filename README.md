@@ -37,6 +37,7 @@ My personal compilation of online texts about software development.
 - J. B. Rainsberger, [Injecting dependencies doesn't have to hurt](http://blog.thecodewhisperer.com/permalink/injecting-dependencies-doesnt-have-to-hurt/). Some guidelines about when to use dependency injection.
 - James Shore, [Dependency Injection Demystified](http://www.jamesshore.com/Blog/Dependency-Injection-Demystified.html). An explanation of what is dependency injection, without any libraries.
 - Martin Fowler, [Inversion of Control Containers and the Dependency Injection pattern](http://www.martinfowler.com/articles/injection.html). A comparison of dependency injection and service locator.
+- Robert Martin, [Dependency Injection Inversion](https://sites.google.com/site/unclebobconsultingllc/blogs-by-robert-martin/dependency-injection-inversion). Robert Martin explains the benefits of manual dependency injection over dependency injection libraries like Guice.
 
 ### Object-Oriented Programming
 
