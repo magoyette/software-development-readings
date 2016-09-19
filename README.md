@@ -50,6 +50,7 @@ My personal compilation of online texts about software development.
 
 ### Unit Testing and Test-Driven Development
 
+- J. B. Rainsberger, [How TDD Affects My Designs](http://blog.thecodewhisperer.com/permalink/how-tdd-affects-my-designs/). J. B. Rainsberger explains the impact of TDD on the way he design software.
 - J. B. Rainsberger, [When is it safe to introduce test doubles?](http://blog.thecodewhisperer.com/permalink/when-is-it-safe-to-introduce-test-doubles/). A blog post that explains when to use mocks with the Domain-Driven Design concepts of service, entity and value.
 - James Carr, [TDD Anti-Patterns](http://blog.james-carr.org/2006/11/03/tdd-anti-patterns/). A short catalog of unit testing anti-patterns.
 - James Shore, [Testing Private Methods](http://www.jamesshore.com/Blog/Testing-Private-Methods.html). An explanation of why private methods should not be tested directly.
