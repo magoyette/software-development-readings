@@ -8,6 +8,8 @@ My personal compilation of online texts about software development.
 
 - [Java](#java)
   - [Javadoc](#javadoc)
+- [Open Source Software](#open-source-software)
+  - [Best Practices](#best-practices)
 - [Software Design and Architecture](#software-design-and-architecture)
   - [Object-Oriented Programming](#object-oriented-programming)
 - [Testing](#testing)
@@ -18,6 +20,13 @@ My personal compilation of online texts about software development.
 ### Javadoc
 
 - Stephen Colebourne, [Javadoc coding standards](http://blog.joda.org/2012/11/javadoc-coding-standards.html). A blog post about how to write good Javadoc.
+
+## Open Source Software
+
+### Best Practices
+
+- Michael Klishin, [How to Make Your Open Source Project Really Awesome](http://blog.clojurewerkz.org/blog/2013/04/20/how-to-make-your-open-source-project-really-awesome/). Many best practices for open source projects.
+- Michael Klishin, [How to Make Your Open Source Project Really Awesome, Part 2](http://blog.clojurewerkz.org/blog/2014/07/20/how-to-make-your-open-source-project-really-awesome/). More best practices for open source projects.
 
 ## Software Design and Architecture
 
