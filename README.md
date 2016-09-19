@@ -11,6 +11,7 @@ My personal compilation of online texts about software development.
 - [Open Source Software](#open-source-software)
   - [Best Practices](#best-practices)
 - [Software Design and Architecture](#software-design-and-architecture)
+  - [Inversion of Control and Dependency Injection](#inversion-of-control-and-dependency-injection)
   - [Object-Oriented Programming](#object-oriented-programming)
   - [Software Design](#software-design)
 - [Testing](#testing)
@@ -30,6 +31,10 @@ My personal compilation of online texts about software development.
 - Michael Klishin, [How to Make Your Open Source Project Really Awesome, Part 2](http://blog.clojurewerkz.org/blog/2014/07/20/how-to-make-your-open-source-project-really-awesome/). More best practices for open source projects.
 
 ## Software Design and Architecture
+
+### Inversion of Control and Dependency Injection
+
+- James Shore, [Dependency Injection Demystified](http://www.jamesshore.com/Blog/Dependency-Injection-Demystified.html). An explanation of what is dependency injection, without any libraries.
 
 ### Object-Oriented Programming
 
