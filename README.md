@@ -35,6 +35,7 @@ My personal compilation of online texts about software development.
 ### Inversion of Control and Dependency Injection
 
 - James Shore, [Dependency Injection Demystified](http://www.jamesshore.com/Blog/Dependency-Injection-Demystified.html). An explanation of what is dependency injection, without any libraries.
+- Martin Fowler, [Inversion of Control Containers and the Dependency Injection pattern](http://www.martinfowler.com/articles/injection.html). A comparison of dependency injection and service locator.
 
 ### Object-Oriented Programming
 
