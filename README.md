@@ -14,6 +14,8 @@ My personal compilation of online texts about software development.
   - [Inversion of Control and Dependency Injection](#inversion-of-control-and-dependency-injection)
   - [Object-Oriented Programming](#object-oriented-programming)
   - [Software Design](#software-design)
+- [Software Development](#software-development)
+  - [Technical Debt](#technical-debt)
 - [Testing](#testing)
   - [Unit Testing and Test-Driven Development](#unit-testing-and-test-driven-development)
 
@@ -46,6 +48,12 @@ My personal compilation of online texts about software development.
 ### Software Design
 
 - James Shore, [Quality With a Name](http://www.jamesshore.com/Articles/Quality-With-a-Name.html). A blog post about what is good design.
+
+## Software Development
+
+### Technical Debt
+
+- Stephen Freeman, [Bad code isn't Technical Debt, it's an unhedged Call Option](http://higherorderlogic.com/2010/07/bad-code-isnt-technical-debt-its-an-unhedged-call-option/). A blog post about how the unpredictability of technical debt is similar to unhedged call options.
 
 ## Testing
 
