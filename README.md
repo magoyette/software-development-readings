@@ -65,7 +65,6 @@ My personal compilation of online texts about software development.
 
 - J. B. Rainsberger, [How TDD Affects My Designs](http://blog.thecodewhisperer.com/permalink/how-tdd-affects-my-designs/).
 - J. B. Rainsberger, [What your tests don't need to know will hurt you](http://blog.thecodewhisperer.com/permalink/what-your-tests-dont-need-to-know-will-hurt-you).
-- James Carr, [TDD Anti-Patterns](http://blog.james-carr.org/2006/11/03/tdd-anti-patterns/).
 - James Shore, [Testing Private Methods](http://www.jamesshore.com/Blog/Testing-Private-Methods.html).
 - Jason Gorman, [Squaring The Circle of "Tell, Don't Ask" vs. Test As Close To Implementation As Possible](http://codemanship.co.uk/parlezuml/blog/?postid=1379).
 - Robert Martin, [The Frenzied Panic of Rushing](https://8thlight.com/blog/uncle-bob/2013/03/11/TheFrenziedPanicOfRushing.html).
