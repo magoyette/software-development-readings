@@ -6,6 +6,9 @@ My personal compilation of online texts about software development.
 
 ## Table of Contents
 
+
+- [Continuous Delivery and DevOps](#continuous-delivery- and-devops)
+  - [Failures](#failures)
 - [Java](#java)
   - [Javadoc](#javadoc)
 - [Open Source Software](#open-source-software)
@@ -20,6 +23,12 @@ My personal compilation of online texts about software development.
 - [Testing](#testing)
   - [Test Doubles](#test-doubles)
   - [Unit Testing and Test-Driven Development](#unit-testing-and-test-driven-development)
+
+## Continuous Delivery and DevOps
+
+### Failures
+
+- Steve Freeman, [Test-Driven Development and Embracing Failure](http://higherorderlogic.com/2011/04/tdd-embracing-failure/).
 
 ## Java
 
