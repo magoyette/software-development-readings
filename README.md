@@ -37,6 +37,7 @@ My personal compilation of online texts about software development.
 
 ### Design Principles
 
+- J. B. Rainsberger, [Modularity. Details. Pick One.](http://blog.thecodewhisperer.com/permalink/modularity-details-pick-one/)
 - James Shore, [Quality With a Name](http://www.jamesshore.com/Articles/Quality-With-a-Name.html).
 
 ### Inversion of Control and Dependency Injection
