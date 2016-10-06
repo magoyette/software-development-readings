@@ -14,6 +14,7 @@ My personal compilation of online texts about software development.
   - [Design Principles](#design-principles)
   - [Inversion of Control and Dependency Injection](#inversion-of-control-and-dependency-injection)
   - [Object-Oriented Programming and Relational Databases](#object-oriented-programming-and-relational-databases)
+  - [Refactoring Legacy Code](#refactoring-legacy-code)
   - [Technical Debt](#technical-debt)
 - [Testing](#testing)
   - [Test Doubles](#test-doubles)
@@ -48,6 +49,10 @@ My personal compilation of online texts about software development.
 ### Object-Oriented Programming and Relational Databases
 
 - Robert Martin, [Dance you Imps!](https://8thlight.com/blog/uncle-bob/2013/10/01/Dance-You-Imps.html).
+
+### Refactoring Legacy Code
+
+- J. B. Rainsberger, [Rescuing Legacy Code by Extracting Pure Functions](http://blog.thecodewhisperer.com/permalink/rescuing-legacy-code-by-extracting-pure-functions/).
 
 ### Technical Debt
 
