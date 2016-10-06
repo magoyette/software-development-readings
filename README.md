@@ -65,6 +65,10 @@ My personal compilation of online texts about software development.
 
 - Robert Martin, [Dance you Imps!](https://8thlight.com/blog/uncle-bob/2013/10/01/Dance-You-Imps.html).
 
+### Refactoring
+
+- Ron Jeffries, [Refactoring -- Not on the backlog!](http://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/).
+
 ### Refactoring Legacy Code
 
 - J. B. Rainsberger, [Rescuing Legacy Code by Extracting Pure Functions](http://blog.thecodewhisperer.com/permalink/rescuing-legacy-code-by-extracting-pure-functions/).
