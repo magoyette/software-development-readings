@@ -18,6 +18,7 @@ My personal compilation of online texts about software development.
   - [Inversion of Control and Dependency Injection](#inversion-of-control-and-dependency-injection)
   - [Object-Oriented and Functional Programming](#object-oriented-and-functional-programming)
   - [Object-Oriented Programming and Relational Databases](#object-oriented-programming-and-relational-databases)
+  - [Refactoring](#refactoring)
   - [Refactoring Legacy Code](#refactoring-legacy-code)
   - [Technical Debt](#technical-debt)
 - [Testing](#testing)
