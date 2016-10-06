@@ -6,13 +6,14 @@ My personal compilation of online texts about software development.
 
 ## Table of Contents
 
-
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
   - [Failures](#failures)
 - [Java](#java)
   - [Javadoc](#javadoc)
 - [Open Source Software](#open-source-software)
   - [Best Practices](#best-practices)
+- [Software Craftsmanship](#software-craftsmanship)
+  - [Collective Code Ownership and Pair Programming](#collective-code-ownership-and-pair-programming).
 - [Software Design](#software-design)
   - [Design Principles](#design-principles)
   - [Inversion of Control and Dependency Injection](#inversion-of-control-and-dependency-injection)
@@ -43,6 +44,12 @@ My personal compilation of online texts about software development.
 
 - Michael Klishin, [How to Make Your Open Source Project Really Awesome](http://blog.clojurewerkz.org/blog/2013/04/20/how-to-make-your-open-source-project-really-awesome/).
 - Michael Klishin, [How to Make Your Open Source Project Really Awesome, Part 2](http://blog.clojurewerkz.org/blog/2014/07/20/how-to-make-your-open-source-project-really-awesome/).
+
+## Software Craftsmanship
+
+### Collective Code Ownership and Pair Programming
+
+- Daniel Irvine, [The egoless programmer](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html).
 
 ## Software Design
 
