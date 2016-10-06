@@ -13,6 +13,7 @@ My personal compilation of online texts about software development.
 - [Software Design](#software-design)
   - [Design Principles](#design-principles)
   - [Inversion of Control and Dependency Injection](#inversion-of-control-and-dependency-injection)
+  - [Object-Oriented and Functional Programming](#object-oriented-and-functional-programming)
   - [Object-Oriented Programming and Relational Databases](#object-oriented-programming-and-relational-databases)
   - [Refactoring Legacy Code](#refactoring-legacy-code)
   - [Technical Debt](#technical-debt)
@@ -46,6 +47,10 @@ My personal compilation of online texts about software development.
 - James Shore, [Dependency Injection Demystified](http://www.jamesshore.com/Blog/Dependency-Injection-Demystified.html).
 - Martin Fowler, [Inversion of Control Containers and the Dependency Injection pattern](http://www.martinfowler.com/articles/injection.html).
 - Robert Martin, [Dependency Injection Inversion](https://sites.google.com/site/unclebobconsultingllc/blogs-by-robert-martin/dependency-injection-inversion).
+
+### Object-Oriented and Functional Programming
+
+- Michael Feathers, [Tell Above, and Ask Below - Hybridizing OO and Functional Design](http://michaelfeathers.typepad.com/michael_feathers_blog/2012/03/tell-above-and-ask-below-hybridizing-oo-and-functional-design.html).
 
 ### Object-Oriented Programming and Relational Databases
 
