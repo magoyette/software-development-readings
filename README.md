@@ -7,7 +7,7 @@ My personal compilation of online texts about software development.
 ## Table of Contents
 
 
-- [Continuous Delivery and DevOps](#continuous-delivery- and-devops)
+- [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
   - [Failures](#failures)
 - [Java](#java)
   - [Javadoc](#javadoc)
