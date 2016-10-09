@@ -4,7 +4,12 @@ My personal compilation of online texts about software development.
 
 ***
 
-## Table of Contents
+<!-- Table of contents is generated with doctoc -->
+<!-- sudo npm install -g doctoc -->
+<!-- doctoc README.md -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
   - [Failures](#failures)
@@ -13,7 +18,7 @@ My personal compilation of online texts about software development.
 - [Open Source Software](#open-source-software)
   - [Best Practices](#best-practices)
 - [Software Craftsmanship](#software-craftsmanship)
-  - [Collective Code Ownership and Pair Programming](#collective-code-ownership-and-pair-programming).
+  - [Collective Code Ownership and Pair Programming](#collective-code-ownership-and-pair-programming)
 - [Software Design](#software-design)
   - [Design Principles](#design-principles)
   - [Inversion of Control and Dependency Injection](#inversion-of-control-and-dependency-injection)
@@ -25,6 +30,8 @@ My personal compilation of online texts about software development.
 - [Testing](#testing)
   - [Test Doubles](#test-doubles)
   - [Unit Testing and Test-Driven Development](#unit-testing-and-test-driven-development)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Continuous Delivery and DevOps
 
