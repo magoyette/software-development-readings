@@ -12,7 +12,6 @@ My personal compilation of online texts about software development.
 
 
 - [Agile](#agile)
-  - [Agile and Design](#agile-and-design)
   - [Agile Tips](#agile-tips)
   - [Scrum](#scrum)
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
@@ -35,7 +34,7 @@ My personal compilation of online texts about software development.
   - [Code Smells](#code-smells)
   - [Design Principles](#design-principles)
   - [Design Tips](#design-tips)
-  - [Evolutionary Design](#evolutionary-design)
+  - [Evolutionary Design and Up-Front Design](#evolutionary-design-and-up-front-design)
   - [Inversion of Control and Dependency Injection](#inversion-of-control-and-dependency-injection)
   - [Object-Oriented and Functional Programming](#object-oriented-and-functional-programming)
   - [Object-Oriented Programming and Relational Databases](#object-oriented-programming-and-relational-databases)
@@ -50,11 +49,6 @@ My personal compilation of online texts about software development.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Agile
-
-### Agile and Design
-
-- Jason Gorman, [Stepping Back to See The Bigger Picture](http://codemanship.co.uk/parlezuml/blog/?postid=1285).
-- Robert Martin, [The Scatology of Agile Architecture](https://sites.google.com/site/unclebobconsultingllc/home/articles/the-scatology-of-agile-architecture).
 
 ### Agile Tips
 
@@ -140,11 +134,13 @@ My personal compilation of online texts about software development.
 
 - Steve Freeman, [Unpack the bag](http://higherorderlogic.com/2008/09/unpack-the-bag/).
 
-### Evolutionary Design
+### Evolutionary Design and Up-Front Design
 
 - James Shore, [Design Mindsets](http://www.jamesshore.com/Blog/Design%20Mindsets.html).
 - James Shore, [Drawing the Line on Continuous Design](http://www.jamesshore.com/Blog/DrawingTheLineOnContinuousDesign.html).
 - James Shore, [The Other Side of Design](http://www.jamesshore.com/Blog/The-Other-Side-of-Design.html).
+- Jason Gorman, [Stepping Back to See The Bigger Picture](http://codemanship.co.uk/parlezuml/blog/?postid=1285).
+- Robert Martin, [The Scatology of Agile Architecture](https://sites.google.com/site/unclebobconsultingllc/home/articles/the-scatology-of-agile-architecture).
 
 ### Inversion of Control and Dependency Injection
 
