@@ -23,6 +23,7 @@ My personal compilation of online texts about software development.
 - [Software Craftsmanship](#software-craftsmanship)
   - [Collective Code Ownership and Pair Programming](#collective-code-ownership-and-pair-programming)
 - [Software Design](#software-design)
+  - [Code Smells](#code-smells)
   - [Design Principles](#design-principles)
   - [Design Tips](#design-tips)
   - [Evolutionary Design](#evolutionary-design)
@@ -74,6 +75,10 @@ My personal compilation of online texts about software development.
 - Daniel Irvine, [The egoless programmer](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html).
 
 ## Software Design
+
+### Code Smells
+
+- James Shore, [Primitive Obsession](http://www.jamesshore.com/Blog/PrimitiveObsession.html).
 
 ### Design Principles
 
