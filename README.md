@@ -162,6 +162,7 @@ My personal compilation of online texts about software development.
 
 ### Acceptance Testing
 
+- James Shore, [Alternatives to Acceptance Testing](http://www.jamesshore.com/Blog/Alternatives-to-Acceptance-Testing.html).
 - James Shore, [The Problems With Acceptance Testing](http://www.jamesshore.com/Blog/The-Problems-With-Acceptance-Testing.html).
 
 ### Test Doubles
