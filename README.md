@@ -165,6 +165,7 @@ My personal compilation of online texts about software development.
 - J. B. Rainsberger, [Modularity. Details. Pick One.](http://blog.thecodewhisperer.com/permalink/modularity-details-pick-one/)
 - James Shore, [Quality With a Name](http://www.jamesshore.com/Articles/Quality-With-a-Name.html).
 - Jason Gorman, [S.T.O.L.I.D. OO Design Principles](http://codemanship.co.uk/parlezuml/blog/?postid=1267).
+- Martin Fowler, [Yagni](http://martinfowler.com/bliki/Yagni.html).
 
 ### Design Tips
 
