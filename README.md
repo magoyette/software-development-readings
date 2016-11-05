@@ -19,6 +19,7 @@ My personal compilation of online texts about software development.
   - [Failures](#failures)
 - [Continuous Integration](#continuous-integration)
   - [Continuous Integration Coding Techniques](#continuous-integration-coding-techniques)
+  - [Git](#git)
   - [Version Control](#version-control)
 - [Java](#java)
   - [Javadoc](#javadoc)
@@ -74,6 +75,10 @@ My personal compilation of online texts about software development.
 
 - Martin Fowler, [FeatureToggle](http://martinfowler.com/bliki/FeatureToggle.html).
 - Martin Fowler, [BranchByAbstraction](http://martinfowler.com/bliki/BranchByAbstraction.html).
+
+### Git
+
+- Chris Beams, [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/).
 
 ### Version Control
 
