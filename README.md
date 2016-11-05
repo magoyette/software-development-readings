@@ -18,6 +18,7 @@ My personal compilation of online texts about software development.
   - [Failures](#failures)
 - [Continuous Integration](#continuous-integration)
   - [Feature Toggles](#feature-toggles)
+  - [Version Control](#version-control)
 - [Java](#java)
   - [Javadoc](#javadoc)
 - [Open Source Software](#open-source-software)
@@ -62,6 +63,10 @@ My personal compilation of online texts about software development.
 ### Feature Toggles
 
 - Martin Fowler, [FeatureToggle](http://martinfowler.com/bliki/FeatureToggle.html).
+
+### Version Control
+
+- Martin Fowler, [SemanticConflict](http://martinfowler.com/bliki/SemanticConflict.html).
 
 ## Java
 
