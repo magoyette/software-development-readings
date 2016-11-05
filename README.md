@@ -77,6 +77,7 @@ My personal compilation of online texts about software development.
 ### BDD
 
 - Dan North, [Introducing BDD](https://dannorth.net/introducing-bdd/).
+- Liz Keogh, [Step Away from the Tools](https://lizkeogh.com/2011/03/04/step-away-from-the-tools/).
 
 ### Cucumber
 
