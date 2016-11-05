@@ -91,6 +91,7 @@ My personal compilation of online texts about software development.
 ### Stories in BDD
 
 - Dan North, [What’s in a Story?](https://dannorth.net/whats-in-a-story/).
+- Matt Wynne, [Features != User Stories](http://blog.mattwynne.net/2010/10/22/features-user-stories/).
 
 ## Continuous Delivery and DevOps
 
