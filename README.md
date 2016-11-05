@@ -28,6 +28,7 @@ My personal compilation of online texts about software development.
   - [Tech Leads](#tech-leads)
 - [Software Craftsmanship](#software-craftsmanship)
   - [Collective Code Ownership and Pair Programming](#collective-code-ownership-and-pair-programming)
+  - [Software Craftsmanship in General](#software-craftsmanship-in-general)
 - [Software Design](#software-design)
   - [Code Smells](#code-smells)
   - [Design Principles](#design-principles)
@@ -106,6 +107,10 @@ My personal compilation of online texts about software development.
 ### Collective Code Ownership and Pair Programming
 
 - Daniel Irvine, [The egoless programmer](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html).
+
+### Software Craftsmanship in General
+
+- James Gorman, [Why Software Craftsmanship Needs To Stop Worrying About The Colour Of The Bike Shed & Focus On The Big Issues](http://codemanship.co.uk/parlezuml/blog/?postid=1298).
 
 ## Software Design
 
