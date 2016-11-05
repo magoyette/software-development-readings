@@ -16,6 +16,7 @@ My personal compilation of online texts about software development.
   - [Scrum](#scrum)
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
   - [Failures](#failures)
+- [Continuous Integration](#continuous-integration)
   - [Feature Toggles](#feature-toggles)
 - [Java](#java)
   - [Javadoc](#javadoc)
@@ -55,6 +56,8 @@ My personal compilation of online texts about software development.
 ### Failures
 
 - Steve Freeman, [Test-Driven Development and Embracing Failure](http://higherorderlogic.com/2011/04/tdd-embracing-failure/).
+
+## Continuous Integration
 
 ### Feature Toggles
 
