@@ -138,6 +138,7 @@ My personal compilation of online texts about software development.
 ### Refactoring Legacy Code
 
 - J. B. Rainsberger, [Rescuing Legacy Code by Extracting Pure Functions](http://blog.thecodewhisperer.com/permalink/rescuing-legacy-code-by-extracting-pure-functions/).
+- J. B. Rainsberger, [Your Constructors are Completely Irrational](http://blog.thecodewhisperer.com/permalink/your-constructors-are-completely-irrational/).
 
 ### Technical Debt
 
