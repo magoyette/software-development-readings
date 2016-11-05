@@ -48,6 +48,7 @@ My personal compilation of online texts about software development.
 - [Testing](#testing)
   - [Acceptance Testing](#acceptance-testing)
   - [End-to-End Testing](#end-to-end-testing)
+  - [Exploratory Testing](#exploratory-testing)
   - [Test Doubles](#test-doubles)
   - [Unit Testing and Test-Driven Development](#unit-testing-and-test-driven-development)
 
@@ -204,6 +205,10 @@ My personal compilation of online texts about software development.
 ### End-to-End Testing
 
 - Adam Bender, [Testing on the Toilet: What Makes a Good End-to-End Test?](https://testing.googleblog.com/2016/09/testing-on-toilet-what-makes-good-end.html).
+
+### Exploratory Testing
+
+- Gojko Adzic, [Explore capabilities, not features](https://gojko.net/2015/03/12/explore-capabilities-not-features/).
 
 ### Test Doubles
 
