@@ -15,6 +15,8 @@ My personal compilation of online texts about software development.
   - [Agile Methodologies](#agile-methodologies)
   - [Agile Tips](#agile-tips)
   - [Scrum](#scrum)
+- [BDD and Specification by Example](#bdd-and-specification-by-example)
+  - [BDD](#bdd)
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
   - [Antifragility and Embracing Failure](#antifragility-and-embracing-failure)
 - [Continuous Integration](#continuous-integration)
@@ -65,6 +67,12 @@ My personal compilation of online texts about software development.
 
 - Mike Cohn, [Choose Backlog Items That Serve Two Purposes](http://www.mountaingoatsoftware.com/blog/choose-backlog-items-that-serve-two-purposes).
 - Ralph Jocham and Henk Jan Huizer, [Gone are Release Planning and the Release Burndown](https://www.scrum.org/About/All-Articles/articleType/ArticleView/articleId/17/Gone-are-Release-Planning-and-the-Release-Burndown).
+
+## BDD and Specification by Example
+
+### BDD
+
+- Dan North, [Introducing BDD](https://dannorth.net/introducing-bdd/).
 
 ## Continuous Delivery and DevOps
 
