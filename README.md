@@ -97,6 +97,7 @@ My personal compilation of online texts about software development.
 - Patrick Kua, [A Tech Lead Paradox: Delivering vs Learning](https://www.thekua.com/atwork/2014/11/a-tech-lead-paradox-delivering-vs-learning/).
 - Patrick Kua, [A Tech Lead Paradox: Technical Needs vs Business Needs](https://www.thekua.com/atwork/2014/12/a-tech-lead-paradox-technical-needs-vs-business-needs/).
 - Patrick Kua, [How do I still write code as a Tech Lead?](https://www.thekua.com/atwork/2014/11/how-do-i-still-write-code-as-a-tech-lead/).
+- Patrick Kua, [The Definition of a Tech Lead](https://www.thekua.com/atwork/2014/11/the-definition-of-a-tech-lead/).
 - Patrick Kua, [Top 5 Mistakes for First Time Tech Leads](https://www.thekua.com/atwork/2014/10/top-5-mistakes-for-first-time-tech-leads/).
 
 ## Software Craftsmanship
