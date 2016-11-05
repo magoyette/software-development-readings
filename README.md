@@ -13,6 +13,7 @@ My personal compilation of online texts about software development.
 
 - [Agile](#agile)
   - [Agile and Design](#agile-and-design)
+  - [Scrum](#scrum)
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
   - [Failures](#failures)
 - [Java](#java)
@@ -41,6 +42,10 @@ My personal compilation of online texts about software development.
 ### Agile and Design
 
 - Jason Gorman, [Stepping Back to See The Bigger Picture](http://codemanship.co.uk/parlezuml/blog/?postid=1285).
+
+### Scrum
+
+- Mike Cohn, [Choose Backlog Items That Serve Two Purposes](http://www.mountaingoatsoftware.com/blog/choose-backlog-items-that-serve-two-purposes).
 
 ## Continuous Delivery and DevOps
 
