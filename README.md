@@ -42,6 +42,10 @@ My personal compilation of online texts about software development.
 
 - Jason Gorman, [Stepping Back to See The Bigger Picture](http://codemanship.co.uk/parlezuml/blog/?postid=1285).
 
+### Scrum
+
+- Mike Cohn, [Choose Backlog Items That Serve Two Purposes](http://www.mountaingoatsoftware.com/blog/choose-backlog-items-that-serve-two-purposes).
+
 ## Continuous Delivery and DevOps
 
 ### Failures
