@@ -40,6 +40,7 @@ My personal compilation of online texts about software development.
   - [Refactoring Legacy Code](#refactoring-legacy-code)
   - [Technical Debt](#technical-debt)
 - [Testing](#testing)
+  - [Acceptance Testing](#acceptance-testing)
   - [Test Doubles](#test-doubles)
   - [Unit Testing and Test-Driven Development](#unit-testing-and-test-driven-development)
 
@@ -158,6 +159,10 @@ My personal compilation of online texts about software development.
 - Stephen Freeman, [Bad code isn't Technical Debt, it's an unhedged Call Option](http://higherorderlogic.com/2010/07/bad-code-isnt-technical-debt-its-an-unhedged-call-option/).
 
 ## Testing
+
+### Acceptance Testing
+
+- James Shore, [The Problems With Acceptance Testing](http://www.jamesshore.com/Blog/The-Problems-With-Acceptance-Testing.html).
 
 ### Test Doubles
 
