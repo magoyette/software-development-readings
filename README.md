@@ -60,6 +60,7 @@ My personal compilation of online texts about software development.
 ### Scrum
 
 - Mike Cohn, [Choose Backlog Items That Serve Two Purposes](http://www.mountaingoatsoftware.com/blog/choose-backlog-items-that-serve-two-purposes).
+- Ralph Jocham and Henk Jan Huizer, [Gone are Release Planning and the Release Burndown](https://www.scrum.org/About/All-Articles/articleType/ArticleView/articleId/17/Gone-are-Release-Planning-and-the-Release-Burndown).
 
 ## Continuous Delivery and DevOps
 
