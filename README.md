@@ -19,6 +19,7 @@ My personal compilation of online texts about software development.
   - [BDD](#bdd)
   - [Cucumber](#cucumber)
   - [Gherkin and Given-When-Then](#gherkin-and-given-when-then)
+  - [Stories in BDD](#stories-in-bdd)
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
   - [Antifragility and Embracing Failure](#antifragility-and-embracing-failure)
   - [DevOps Culture](#devops-culture)
@@ -86,6 +87,10 @@ My personal compilation of online texts about software development.
 ### Gherkin and Given-When-Then
 
 - Gojko Adzic, [How to get the most out of Given-When-Then](https://gojko.net/2015/02/25/how-to-get-the-most-out-of-given-when-then/).
+
+### Stories in BDD
+
+- Dan North, [What’s in a Story?](https://dannorth.net/whats-in-a-story/).
 
 ## Continuous Delivery and DevOps
 
