@@ -127,6 +127,7 @@ My personal compilation of online texts about software development.
 
 ### Refactoring
 
+- Martin Fowler, [OpportunisticRefactoring](http://martinfowler.com/bliki/OpportunisticRefactoring.html).
 - Ron Jeffries, [Refactoring -- Not on the backlog!](http://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/).
 
 ### Refactoring Legacy Code
