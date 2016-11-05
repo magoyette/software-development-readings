@@ -63,6 +63,7 @@ My personal compilation of online texts about software development.
 ### Continuous Integration Coding Techniques
 
 - Martin Fowler, [FeatureToggle](http://martinfowler.com/bliki/FeatureToggle.html).
+- Martin Fowler, [BranchByAbstraction](http://martinfowler.com/bliki/BranchByAbstraction.html).
 
 ### Version Control
 
