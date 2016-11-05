@@ -21,6 +21,7 @@ My personal compilation of online texts about software development.
   - [Collective Code Ownership and Pair Programming](#collective-code-ownership-and-pair-programming)
 - [Software Design](#software-design)
   - [Design Principles](#design-principles)
+  - [Design Tips](#design-tips)
   - [Inversion of Control and Dependency Injection](#inversion-of-control-and-dependency-injection)
   - [Object-Oriented and Functional Programming](#object-oriented-and-functional-programming)
   - [Object-Oriented Programming and Relational Databases](#object-oriented-programming-and-relational-databases)
@@ -65,6 +66,10 @@ My personal compilation of online texts about software development.
 - J. B. Rainsberger, [Modularity. Details. Pick One.](http://blog.thecodewhisperer.com/permalink/modularity-details-pick-one/)
 - James Shore, [Quality With a Name](http://www.jamesshore.com/Articles/Quality-With-a-Name.html).
 - Jason Gorman, [S.T.O.L.I.D. OO Design Principles](http://codemanship.co.uk/parlezuml/blog/?postid=1267).
+
+### Design Tips
+
+- Steve Freeman, [Unpack the bag](http://higherorderlogic.com/2008/09/unpack-the-bag/).
 
 ### Inversion of Control and Dependency Injection
 
