@@ -25,6 +25,7 @@ My personal compilation of online texts about software development.
   - [Javadoc](#javadoc)
 - [Open Source Software](#open-source-software)
   - [Best Practices](#best-practices)
+  - [GitHub](#github)
 - [Software Architecture and Technical Leadership](#software-architecture-and-technical-leadership)
   - [Tech Leads](#tech-leads)
 - [Software Craftsmanship](#software-craftsmanship)
@@ -98,6 +99,10 @@ My personal compilation of online texts about software development.
 
 - Michael Klishin, [How to Make Your Open Source Project Really Awesome](http://blog.clojurewerkz.org/blog/2013/04/20/how-to-make-your-open-source-project-really-awesome/).
 - Michael Klishin, [How to Make Your Open Source Project Really Awesome, Part 2](http://blog.clojurewerkz.org/blog/2014/07/20/how-to-make-your-open-source-project-really-awesome/).
+
+### GitHub
+
+- Jono Bacon, [10 tips for new GitHub projects](https://opensource.com/business/16/6/10-tips-new-github-projects).
 
 ## Software Architecture and Technical Leadership
 
