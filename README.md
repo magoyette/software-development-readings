@@ -16,7 +16,7 @@ My personal compilation of online texts about software development.
   - [Agile Tips](#agile-tips)
   - [Scrum](#scrum)
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
-  - [Failures](#failures)
+  - [Antifragility and Embracing Failure](#antifragility-and-embracing-failure)
 - [Continuous Integration](#continuous-integration)
   - [Continuous Integration Coding Techniques](#continuous-integration-coding-techniques)
   - [Git](#git)
@@ -68,8 +68,9 @@ My personal compilation of online texts about software development.
 
 ## Continuous Delivery and DevOps
 
-### Failures
+### Antifragility and Embracing Failure
 
+- Michael Nygard, [The New Normal: No Silver Bullet](http://blog.cognitect.com/blog/2016/2/25/the-new-normal-no-silver-bullet).
 - Steve Freeman, [Test-Driven Development and Embracing Failure](http://higherorderlogic.com/2011/04/tdd-embracing-failure/).
 
 ## Continuous Integration
