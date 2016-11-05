@@ -94,6 +94,7 @@ My personal compilation of online texts about software development.
 
 - James Shore, [Design Mindsets](http://www.jamesshore.com/Blog/Design%20Mindsets.html).
 - James Shore, [Drawing the Line on Continuous Design](http://www.jamesshore.com/Blog/DrawingTheLineOnContinuousDesign.html).
+- James Shore, [The Other Side of Design](http://www.jamesshore.com/Blog/The-Other-Side-of-Design.html).
 
 ### Inversion of Control and Dependency Injection
 
