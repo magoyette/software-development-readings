@@ -54,6 +54,7 @@ My personal compilation of online texts about software development.
 ### Agile and Design
 
 - Jason Gorman, [Stepping Back to See The Bigger Picture](http://codemanship.co.uk/parlezuml/blog/?postid=1285).
+- Robert Martin, [The Scatology of Agile Architecture](https://sites.google.com/site/unclebobconsultingllc/home/articles/the-scatology-of-agile-architecture).
 
 ### Agile Tips
 
