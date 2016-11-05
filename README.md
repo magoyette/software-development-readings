@@ -12,6 +12,7 @@ My personal compilation of online texts about software development.
 
 
 - [Agile](#agile)
+  - [Agile Methodologies](#agile-methodologies)
   - [Agile Tips](#agile-tips)
   - [Scrum](#scrum)
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
@@ -49,6 +50,10 @@ My personal compilation of online texts about software development.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Agile
+
+### Agile Methodologies
+
+- Ben Linders, [Don't Copy the Spotify Model](https://www.infoq.com/news/2016/10/no-spotify-model).
 
 ### Agile Tips
 
