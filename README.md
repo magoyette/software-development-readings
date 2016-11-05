@@ -44,6 +44,7 @@ My personal compilation of online texts about software development.
   - [Technical Debt](#technical-debt)
 - [Testing](#testing)
   - [Acceptance Testing](#acceptance-testing)
+  - [End-to-End Testing](#end-to-end-testing)
   - [Test Doubles](#test-doubles)
   - [Unit Testing and Test-Driven Development](#unit-testing-and-test-driven-development)
 
@@ -184,6 +185,10 @@ My personal compilation of online texts about software development.
 
 - James Shore, [Alternatives to Acceptance Testing](http://www.jamesshore.com/Blog/Alternatives-to-Acceptance-Testing.html).
 - James Shore, [The Problems With Acceptance Testing](http://www.jamesshore.com/Blog/The-Problems-With-Acceptance-Testing.html).
+
+### End-to-End Testing
+
+- Adam Bender, [Testing on the Toilet: What Makes a Good End-to-End Test?](https://testing.googleblog.com/2016/09/testing-on-toilet-what-makes-good-end.html).
 
 ### Test Doubles
 
