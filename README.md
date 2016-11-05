@@ -140,6 +140,7 @@ My personal compilation of online texts about software development.
 - James Shore, [Drawing the Line on Continuous Design](http://www.jamesshore.com/Blog/DrawingTheLineOnContinuousDesign.html).
 - James Shore, [The Other Side of Design](http://www.jamesshore.com/Blog/The-Other-Side-of-Design.html).
 - Jason Gorman, [Stepping Back to See The Bigger Picture](http://codemanship.co.uk/parlezuml/blog/?postid=1285).
+- Martin Fowler, [Is Design Dead?](http://martinfowler.com/articles/designDead.html).
 - Robert Martin, [The Scatology of Agile Architecture](https://sites.google.com/site/unclebobconsultingllc/home/articles/the-scatology-of-agile-architecture).
 
 ### Inversion of Control and Dependency Injection
