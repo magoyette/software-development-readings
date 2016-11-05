@@ -17,7 +17,7 @@ My personal compilation of online texts about software development.
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
   - [Failures](#failures)
 - [Continuous Integration](#continuous-integration)
-  - [Feature Toggles](#feature-toggles)
+  - [Continuous Integration Coding Techniques](#continuous-integration-coding-techniques)
   - [Version Control](#version-control)
 - [Java](#java)
   - [Javadoc](#javadoc)
@@ -60,7 +60,7 @@ My personal compilation of online texts about software development.
 
 ## Continuous Integration
 
-### Feature Toggles
+### Continuous Integration Coding Techniques
 
 - Martin Fowler, [FeatureToggle](http://martinfowler.com/bliki/FeatureToggle.html).
 
