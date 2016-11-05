@@ -16,6 +16,7 @@ My personal compilation of online texts about software development.
   - [Scrum](#scrum)
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
   - [Failures](#failures)
+  - [Feature Toggles](#feature-toggles)
 - [Java](#java)
   - [Javadoc](#javadoc)
 - [Open Source Software](#open-source-software)
@@ -54,6 +55,10 @@ My personal compilation of online texts about software development.
 ### Failures
 
 - Steve Freeman, [Test-Driven Development and Embracing Failure](http://higherorderlogic.com/2011/04/tdd-embracing-failure/).
+
+### Feature Toggles
+
+- Martin Fowler, [FeatureToggle](http://martinfowler.com/bliki/FeatureToggle.html).
 
 ## Java
 
