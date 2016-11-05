@@ -162,6 +162,7 @@ My personal compilation of online texts about software development.
 ### Technical Debt
 
 - Stephen Freeman, [Bad code isn't Technical Debt, it's an unhedged Call Option](http://higherorderlogic.com/2010/07/bad-code-isnt-technical-debt-its-an-unhedged-call-option/).
+- Tom Grant, [Technical Debt Is A Systemic Problem, Not A Personal Failing](http://www.netobjectives.com/blogs/technical-debt-systemic-problem-not-personal-failing).
 
 ## Testing
 
