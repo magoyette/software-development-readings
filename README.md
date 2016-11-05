@@ -24,6 +24,8 @@ My personal compilation of online texts about software development.
   - [Javadoc](#javadoc)
 - [Open Source Software](#open-source-software)
   - [Best Practices](#best-practices)
+- [Software Architecture and Technical Leadership](#software-architecture-and-technical-leadership)
+  - [Tech Leads](#tech-leads)
 - [Software Craftsmanship](#software-craftsmanship)
   - [Collective Code Ownership and Pair Programming](#collective-code-ownership-and-pair-programming)
 - [Software Design](#software-design)
@@ -86,6 +88,12 @@ My personal compilation of online texts about software development.
 
 - Michael Klishin, [How to Make Your Open Source Project Really Awesome](http://blog.clojurewerkz.org/blog/2013/04/20/how-to-make-your-open-source-project-really-awesome/).
 - Michael Klishin, [How to Make Your Open Source Project Really Awesome, Part 2](http://blog.clojurewerkz.org/blog/2014/07/20/how-to-make-your-open-source-project-really-awesome/).
+
+## Software Architecture and Technical Leadership
+
+### Tech Leads
+
+- Patrick Kua, [Top 5 Mistakes for First Time Tech Leads](https://www.thekua.com/atwork/2014/10/top-5-mistakes-for-first-time-tech-leads/).
 
 ## Software Craftsmanship
 
