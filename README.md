@@ -25,6 +25,7 @@ My personal compilation of online texts about software development.
 - [Software Design](#software-design)
   - [Design Principles](#design-principles)
   - [Design Tips](#design-tips)
+  - [Evolutionary Design](#evolutionary-design)
   - [Inversion of Control and Dependency Injection](#inversion-of-control-and-dependency-injection)
   - [Object-Oriented and Functional Programming](#object-oriented-and-functional-programming)
   - [Object-Oriented Programming and Relational Databases](#object-oriented-programming-and-relational-databases)
@@ -83,6 +84,10 @@ My personal compilation of online texts about software development.
 ### Design Tips
 
 - Steve Freeman, [Unpack the bag](http://higherorderlogic.com/2008/09/unpack-the-bag/).
+
+### Evolutionary Design
+
+- James Shore, [Design Mindsets](http://www.jamesshore.com/Blog/Design%20Mindsets.html).
 
 ### Inversion of Control and Dependency Injection
 
