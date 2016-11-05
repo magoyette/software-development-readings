@@ -220,6 +220,7 @@ My personal compilation of online texts about software development.
 - J. B. Rainsberger, [Your Tests Are Dragging You Down](http://blog.thecodewhisperer.com/permalink/your-tests-are-dragging-you-down/).
 - James Shore, [Testing Private Methods](http://www.jamesshore.com/Blog/Testing-Private-Methods.html).
 - Jason Gorman, [Squaring The Circle of "Tell, Don't Ask" vs. Test As Close To Implementation As Possible](http://codemanship.co.uk/parlezuml/blog/?postid=1379).
+- Jason Gorman, [TDD & Mocks - Working Backwards From Expectations](http://codemanship.co.uk/parlezuml/blog/?postid=1159).
 - Michael Feathers, [A Set of Unit Testing Rules](http://www.artima.com/weblogs/viewpost.jsp?thread=126923).
 - Robert Martin, [Test First](https://8thlight.com/blog/uncle-bob/2013/09/23/Test-first.html).
 - Robert Martin, [The Frenzied Panic of Rushing](https://8thlight.com/blog/uncle-bob/2013/03/11/TheFrenziedPanicOfRushing.html).
