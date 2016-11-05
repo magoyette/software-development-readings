@@ -93,6 +93,7 @@ My personal compilation of online texts about software development.
 
 ### Tech Leads
 
+- Patrick Kua, [How do I still write code as a Tech Lead?](https://www.thekua.com/atwork/2014/11/how-do-i-still-write-code-as-a-tech-lead/).
 - Patrick Kua, [Top 5 Mistakes for First Time Tech Leads](https://www.thekua.com/atwork/2014/10/top-5-mistakes-for-first-time-tech-leads/).
 
 ## Software Craftsmanship
