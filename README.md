@@ -20,6 +20,7 @@ My personal compilation of online texts about software development.
   - [Gherkin and Given-When-Then](#gherkin-and-given-when-then)
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
   - [Antifragility and Embracing Failure](#antifragility-and-embracing-failure)
+  - [DevOps Culture](#devops-culture)
 - [Continuous Integration](#continuous-integration)
   - [Continuous Integration Coding Techniques](#continuous-integration-coding-techniques)
   - [Git](#git)
@@ -86,6 +87,10 @@ My personal compilation of online texts about software development.
 
 - Michael Nygard, [The New Normal: No Silver Bullet](http://blog.cognitect.com/blog/2016/2/25/the-new-normal-no-silver-bullet).
 - Steve Freeman, [Test-Driven Development and Embracing Failure](http://higherorderlogic.com/2011/04/tdd-embracing-failure/).
+
+### DevOps Culture
+
+- Elisabeth Hendrickson, [I Prefer This Over That](http://testobsessed.com/2015/05/i-prefer-this-over-that/).
 
 ## Continuous Integration
 
