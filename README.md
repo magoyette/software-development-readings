@@ -31,6 +31,7 @@ My personal compilation of online texts about software development.
   - [Collective Code Ownership and Pair Programming](#collective-code-ownership-and-pair-programming)
   - [Software Craftsmanship in General](#software-craftsmanship-in-general)
 - [Software Design](#software-design)
+  - [API Design](#api-design)
   - [Code Smells](#code-smells)
   - [Design Principles](#design-principles)
   - [Design Tips](#design-tips)
@@ -119,6 +120,10 @@ My personal compilation of online texts about software development.
 - James Gorman, [Why Software Craftsmanship Needs To Stop Worrying About The Colour Of The Bike Shed & Focus On The Big Issues](http://codemanship.co.uk/parlezuml/blog/?postid=1298).
 
 ## Software Design
+
+### API Design
+
+- Danilo Sato, [ParallelChange](http://martinfowler.com/bliki/ParallelChange.html).
 
 ### Code Smells
 
