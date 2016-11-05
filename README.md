@@ -17,6 +17,7 @@ My personal compilation of online texts about software development.
   - [Scrum](#scrum)
 - [BDD and Specification by Example](#bdd-and-specification-by-example)
   - [BDD](#bdd)
+  - [Gherkin and Given-When-Then](#gherkin-and-given-when-then)
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
   - [Antifragility and Embracing Failure](#antifragility-and-embracing-failure)
 - [Continuous Integration](#continuous-integration)
@@ -74,6 +75,10 @@ My personal compilation of online texts about software development.
 ### BDD
 
 - Dan North, [Introducing BDD](https://dannorth.net/introducing-bdd/).
+
+### Gherkin and Given-When-Then
+
+- Gojko Adzic, [How to get the most out of Given-When-Then](https://gojko.net/2015/02/25/how-to-get-the-most-out-of-given-when-then/).
 
 ## Continuous Delivery and DevOps
 
