@@ -11,6 +11,8 @@ My personal compilation of online texts about software development.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [Agile](#agile)
+  - [Agile and Design](#agile-and-design)
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
   - [Failures](#failures)
 - [Java](#java)
@@ -33,6 +35,12 @@ My personal compilation of online texts about software development.
   - [Unit Testing and Test-Driven Development](#unit-testing-and-test-driven-development)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Agile
+
+### Agile and Design
+
+- Jason Gorman, [Stepping Back to See The Bigger Picture](http://codemanship.co.uk/parlezuml/blog/?postid=1285).
 
 ## Continuous Delivery and DevOps
 
