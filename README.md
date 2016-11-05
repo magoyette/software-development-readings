@@ -88,6 +88,7 @@ My personal compilation of online texts about software development.
 ### Evolutionary Design
 
 - James Shore, [Design Mindsets](http://www.jamesshore.com/Blog/Design%20Mindsets.html).
+- James Shore, [Drawing the Line on Continuous Design](http://www.jamesshore.com/Blog/DrawingTheLineOnContinuousDesign.html).
 
 ### Inversion of Control and Dependency Injection
 
