@@ -252,6 +252,7 @@ My personal compilation of online texts about software development.
 
 ### Refactoring
 
+- Jay Fields, [Refactoring Motivations](http://blog.jayfields.com/2007/12/refactoring-motivations.html).
 - Martin Fowler, [OpportunisticRefactoring](http://martinfowler.com/bliki/OpportunisticRefactoring.html).
 - Ron Jeffries, [Refactoring -- Not on the backlog!](http://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/).
 
