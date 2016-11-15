@@ -36,6 +36,7 @@ My personal compilation of online texts about software development.
   - [Best Practices](#best-practices)
   - [GitHub](#github)
 - [Software Architecture and Technical Leadership](#software-architecture-and-technical-leadership)
+  - [Domain-Driven Design](#domain-driven-design)
   - [Software Architecture](#software-architecture)
   - [Software Architecture Anti-Patterns](#software-architecture-anti-patterns)
   - [Tech Leads](#tech-leads)
@@ -156,6 +157,10 @@ My personal compilation of online texts about software development.
 - Jono Bacon, [10 tips for new GitHub projects](https://opensource.com/business/16/6/10-tips-new-github-projects).
 
 ## Software Architecture and Technical Leadership
+
+### Domain-Driven Design
+
+- Martin Fowler, [BoundedContext](http://martinfowler.com/bliki/BoundedContext.html).
 
 ### Software Architecture
 
