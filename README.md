@@ -143,6 +143,7 @@ My personal compilation of online texts about software development.
 ### Software Architecture
 
 - Robert Martin, [Service Oriented Agony](https://8thlight.com/blog/uncle-bob/2012/02/01/Service-Oriented-Agony.html).
+- Robert Martin, [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html).
 
 ### Tech Leads
 
