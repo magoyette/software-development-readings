@@ -45,6 +45,7 @@ My personal compilation of online texts about software development.
   - [Design Tips](#design-tips)
   - [Evolutionary Design and Up-Front Design](#evolutionary-design-and-up-front-design)
   - [Inversion of Control and Dependency Injection](#inversion-of-control-and-dependency-injection)
+  - [Object-Oriented Analysis & Design](#object-oriented-analysis-&-design)
   - [Object-Oriented and Functional Programming](#object-oriented-and-functional-programming)
   - [Object-Oriented Programming and Relational Databases](#object-oriented-programming-and-relational-databases)
   - [Refactoring](#refactoring)
@@ -202,6 +203,10 @@ My personal compilation of online texts about software development.
 - James Shore, [Dependency Injection Demystified](http://www.jamesshore.com/Blog/Dependency-Injection-Demystified.html).
 - Martin Fowler, [Inversion of Control Containers and the Dependency Injection pattern](http://www.martinfowler.com/articles/injection.html).
 - Robert Martin, [Dependency Injection Inversion](https://sites.google.com/site/unclebobconsultingllc/blogs-by-robert-martin/dependency-injection-inversion).
+
+### Object-Oriented Analysis & Design
+
+- Jason Gorman, [The Big Giant Object Oriented Analysis & Design Blog Post](http://codemanship.co.uk/parlezuml/blog/?postid=1304).
 
 ### Object-Oriented and Functional Programming
 
