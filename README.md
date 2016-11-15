@@ -161,6 +161,7 @@ My personal compilation of online texts about software development.
 ### Domain-Driven Design
 
 - Martin Fowler, [BoundedContext](http://martinfowler.com/bliki/BoundedContext.html).
+- Martin Fowler, [EvansClassification](http://martinfowler.com/bliki/EvansClassification.html).
 
 ### Software Architecture
 
