@@ -189,6 +189,7 @@ My personal compilation of online texts about software development.
 - J. B. Rainsberger, [Modularity. Details. Pick One.](http://blog.thecodewhisperer.com/permalink/modularity-details-pick-one/)
 - James Shore, [Quality With a Name](http://www.jamesshore.com/Articles/Quality-With-a-Name.html).
 - Jason Gorman, [S.T.O.L.I.D. OO Design Principles](http://codemanship.co.uk/parlezuml/blog/?postid=1267).
+- Jeff Atwood, [Curly's Law: Do One Thing](https://blog.codinghorror.com/curlys-law-do-one-thing/).
 - Martin Fowler, [Yagni](http://martinfowler.com/bliki/Yagni.html).
 - Robert Martin, [The Open Closed Principle](https://8thlight.com/blog/uncle-bob/2014/05/12/TheOpenClosedPrinciple.html).
 - Robert Martin, [The Single Responsibility Principle](https://8thlight.com/blog/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html).
