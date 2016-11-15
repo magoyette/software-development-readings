@@ -56,6 +56,7 @@ My personal compilation of online texts about software development.
   - [End-to-End Testing](#end-to-end-testing)
   - [Exploratory Testing](#exploratory-testing)
   - [Test Doubles](#test-doubles)
+  - [Types of Tests](#types-of-tests)
   - [Unit Testing and Test-Driven Development](#unit-testing-and-test-driven-development)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -252,6 +253,10 @@ My personal compilation of online texts about software development.
 - J. B. Rainsberger, [When is it safe to introduce test doubles?](http://blog.thecodewhisperer.com/permalink/when-is-it-safe-to-introduce-test-doubles/).
 - Martin Fowler, [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html).
 - Robert Martin, [When to Mock](https://8thlight.com/blog/uncle-bob/2014/05/10/WhenToMock.html).
+
+### Types of Tests
+
+- Nat Pryce, [Visualising Test Terminology](http://www.natpryce.com/articles/000772.html).
 
 ### Unit Testing and Test-Driven Development
 
