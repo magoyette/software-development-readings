@@ -187,6 +187,7 @@ My personal compilation of online texts about software development.
 
 ### Design Tips
 
+- Dariusz Pasciak, [Alternatives to boolean parameters](https://8thlight.com/blog/dariusz-pasciak/2015/05/28/alternatives-to-boolean-parameters.html).
 - Steve Freeman, [Unpack the bag](http://higherorderlogic.com/2008/09/unpack-the-bag/).
 
 ### Evolutionary Design and Up-Front Design
