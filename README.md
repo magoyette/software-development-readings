@@ -33,6 +33,7 @@ My personal compilation of online texts about software development.
   - [Best Practices](#best-practices)
   - [GitHub](#github)
 - [Software Architecture and Technical Leadership](#software-architecture-and-technical-leadership)
+  - [Software Architecture](#software-architecture)
   - [Tech Leads](#tech-leads)
 - [Software Craftsmanship](#software-craftsmanship)
   - [Collective Code Ownership and Pair Programming](#collective-code-ownership-and-pair-programming)
@@ -138,6 +139,10 @@ My personal compilation of online texts about software development.
 - Jono Bacon, [10 tips for new GitHub projects](https://opensource.com/business/16/6/10-tips-new-github-projects).
 
 ## Software Architecture and Technical Leadership
+
+### Software Architecture
+
+- Robert Martin, [Service Oriented Agony](https://8thlight.com/blog/uncle-bob/2012/02/01/Service-Oriented-Agony.html).
 
 ### Tech Leads
 
