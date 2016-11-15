@@ -22,6 +22,7 @@ My personal compilation of online texts about software development.
   - [Stories in BDD](#stories-in-bdd)
 - [Coding](#coding)
   - [Coding Tips](#coding-tips)
+  - [Logging](#logging)
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
   - [Antifragility and Embracing Failure](#antifragility-and-embracing-failure)
   - [DevOps Culture](#devops-culture)
@@ -104,6 +105,10 @@ My personal compilation of online texts about software development.
 ### Coding Tips
 
 - Dariusz Pasciak, [Alternatives to boolean parameters](https://8thlight.com/blog/dariusz-pasciak/2015/05/28/alternatives-to-boolean-parameters.html).
+
+### Logging
+
+- Alexander Tarlinder, [Think twice before logging](http://blog.crisp.se/2015/06/21/alexandertarlinder/think-twice-before-logging).
 
 ## Continuous Delivery and DevOps
 
