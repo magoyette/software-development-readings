@@ -46,6 +46,7 @@ My personal compilation of online texts about software development.
 - [Software Design](#software-design)
   - [API Design](#api-design)
   - [Code Smells](#code-smells)
+  - [Design Patterns](#design-patterns)
   - [Design Principles](#design-principles)
   - [Design Tips](#design-tips)
   - [Evolutionary Design and Up-Front Design](#evolutionary-design-and-up-front-design)
@@ -200,6 +201,10 @@ My personal compilation of online texts about software development.
 ### Code Smells
 
 - James Shore, [Primitive Obsession](http://www.jamesshore.com/Blog/PrimitiveObsession.html).
+
+### Design Patterns
+
+- Robert Martin, [The Little Singleton](https://8thlight.com/blog/uncle-bob/2015/06/30/the-little-singleton.html).
 
 ### Design Principles
 
