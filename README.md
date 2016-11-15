@@ -129,6 +129,7 @@ My personal compilation of online texts about software development.
 
 ### Version Control
 
+- Martin Fowler, [FeatureBranch](http://martinfowler.com/bliki/FeatureBranch.html).
 - Martin Fowler, [SemanticConflict](http://martinfowler.com/bliki/SemanticConflict.html).
 
 ## Java
