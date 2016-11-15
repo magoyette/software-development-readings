@@ -20,6 +20,8 @@ My personal compilation of online texts about software development.
   - [Cucumber](#cucumber)
   - [Gherkin and Given-When-Then](#gherkin-and-given-when-then)
   - [Stories in BDD](#stories-in-bdd)
+- [Coding](#coding)
+  - [Coding Tips](#coding-tips)
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
   - [Antifragility and Embracing Failure](#antifragility-and-embracing-failure)
   - [DevOps Culture](#devops-culture)
@@ -96,6 +98,12 @@ My personal compilation of online texts about software development.
 
 - Dan North, [What’s in a Story?](https://dannorth.net/whats-in-a-story/).
 - Matt Wynne, [Features != User Stories](http://blog.mattwynne.net/2010/10/22/features-user-stories/).
+
+## Coding
+
+### Coding Tips
+
+- Dariusz Pasciak, [Alternatives to boolean parameters](https://8thlight.com/blog/dariusz-pasciak/2015/05/28/alternatives-to-boolean-parameters.html).
 
 ## Continuous Delivery and DevOps
 
@@ -187,7 +195,6 @@ My personal compilation of online texts about software development.
 
 ### Design Tips
 
-- Dariusz Pasciak, [Alternatives to boolean parameters](https://8thlight.com/blog/dariusz-pasciak/2015/05/28/alternatives-to-boolean-parameters.html).
 - Steve Freeman, [Unpack the bag](http://higherorderlogic.com/2008/09/unpack-the-bag/).
 
 ### Evolutionary Design and Up-Front Design
