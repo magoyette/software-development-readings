@@ -37,6 +37,7 @@ My personal compilation of online texts about software development.
   - [GitHub](#github)
 - [Software Architecture and Technical Leadership](#software-architecture-and-technical-leadership)
   - [Software Architecture](#software-architecture)
+  - [Software Architecture Anti-Patterns](#software-architecture-anti-patterns)
   - [Tech Leads](#tech-leads)
 - [Software Craftsmanship](#software-craftsmanship)
   - [Collective Code Ownership and Pair Programming](#collective-code-ownership-and-pair-programming)
@@ -160,6 +161,10 @@ My personal compilation of online texts about software development.
 
 - Robert Martin, [Service Oriented Agony](https://8thlight.com/blog/uncle-bob/2012/02/01/Service-Oriented-Agony.html).
 - Robert Martin, [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html).
+
+### Software Architecture Anti-Patterns
+
+- Martin Fowler, [AnemicDomainModel](http://www.martinfowler.com/bliki/AnemicDomainModel.html).
 
 ### Tech Leads
 
