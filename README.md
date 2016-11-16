@@ -59,6 +59,7 @@ My personal compilation of online texts about software development.
   - [Technical Debt](#technical-debt)
 - [Testing](#testing)
   - [Acceptance Testing](#acceptance-testing)
+  - [Automated Tests in General](#automated-tests-in-general)
   - [End-to-End Testing](#end-to-end-testing)
   - [Exploratory Testing](#exploratory-testing)
   - [Test Doubles](#test-doubles)
@@ -280,6 +281,10 @@ My personal compilation of online texts about software development.
 
 - James Shore, [Alternatives to Acceptance Testing](http://www.jamesshore.com/Blog/Alternatives-to-Acceptance-Testing.html).
 - James Shore, [The Problems With Acceptance Testing](http://www.jamesshore.com/Blog/The-Problems-With-Acceptance-Testing.html).
+
+### Automated Tests in General
+
+- Jay Fields, [Thoughts on Developer Testing](http://blog.jayfields.com/2009/02/thoughts-on-developer-testing.html).
 
 ### End-to-End Testing
 
