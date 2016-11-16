@@ -241,6 +241,7 @@ My personal compilation of online texts about software development.
 - J. B. Rainsberger, [Injecting dependencies doesn't have to hurt](http://blog.thecodewhisperer.com/permalink/injecting-dependencies-doesnt-have-to-hurt/).
 - James Shore, [Dependency Injection Demystified](http://www.jamesshore.com/Blog/Dependency-Injection-Demystified.html).
 - Martin Fowler, [Inversion of Control Containers and the Dependency Injection pattern](http://www.martinfowler.com/articles/injection.html).
+- Nat Pryce, [Dependency "Injection" Considered Harmful](http://www.natpryce.com/articles/000783.html).
 - Robert Martin, [Dependency Injection Inversion](https://sites.google.com/site/unclebobconsultingllc/blogs-by-robert-martin/dependency-injection-inversion).
 
 ### Object-Oriented Analysis and Design
