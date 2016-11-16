@@ -194,6 +194,7 @@ My personal compilation of online texts about software development.
 ### Software Craftsmanship in General
 
 - James Gorman, [Why Software Craftsmanship Needs To Stop Worrying About The Colour Of The Bike Shed & Focus On The Big Issues](http://codemanship.co.uk/parlezuml/blog/?postid=1298).
+- Jay Fields, [Passionate, Not Dogmatic](http://blog.jayfields.com/2008/09/passionate-not-dogmatic.html).
 
 ## Software Design
 
