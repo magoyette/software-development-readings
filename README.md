@@ -309,6 +309,7 @@ My personal compilation of online texts about software development.
 - Jay Fields, Some Test Driven Development observations:
   - [Some Test Driven Development observations](http://blog.jayfields.com/2006/06/some-test-driven-development.html)
   - [More Test Driven Development observations](http://blog.jayfields.com/2006/06/more-test-driven-development.html)
+- Jay Fields, [Tests reflect code quality](http://blog.jayfields.com/2008/02/tests-reflect-code-quality.html).
 - Michael Feathers, [A Set of Unit Testing Rules](http://www.artima.com/weblogs/viewpost.jsp?thread=126923).
 - Robert Martin, [Test First](https://8thlight.com/blog/uncle-bob/2013/09/23/Test-first.html).
 - Robert Martin, [The Frenzied Panic of Rushing](https://8thlight.com/blog/uncle-bob/2013/03/11/TheFrenziedPanicOfRushing.html).
