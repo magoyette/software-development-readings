@@ -151,8 +151,8 @@ My personal compilation of online texts about software development.
 ### Best Practices
 
 - Michael Klishin, How to Make Your Open Source Project Really Awesome:
-  - [How to Make Your Open Source Project Really Awesome](http://blog.clojurewerkz.org/blog/2013/04/20/how-to-make-your-open-source-project-really-awesome/).
-  - [How to Make Your Open Source Project Really Awesome, Part 2](http://blog.clojurewerkz.org/blog/2014/07/20/how-to-make-your-open-source-project-really-awesome/).
+  - [How to Make Your Open Source Project Really Awesome](http://blog.clojurewerkz.org/blog/2013/04/20/how-to-make-your-open-source-project-really-awesome/)
+  - [How to Make Your Open Source Project Really Awesome, Part 2](http://blog.clojurewerkz.org/blog/2014/07/20/how-to-make-your-open-source-project-really-awesome/)
 
 ### GitHub
 
@@ -306,8 +306,8 @@ My personal compilation of online texts about software development.
 - Jason Gorman, [Squaring The Circle of "Tell, Don't Ask" vs. Test As Close To Implementation As Possible](http://codemanship.co.uk/parlezuml/blog/?postid=1379).
 - Jason Gorman, [TDD & Mocks - Working Backwards From Expectations](http://codemanship.co.uk/parlezuml/blog/?postid=1159).
 - Jay Fields, Some Test Driven Development observations:
-  - [Some Test Driven Development observations](http://blog.jayfields.com/2006/06/some-test-driven-development.html).
-  - [More Test Driven Development observations](http://blog.jayfields.com/2006/06/more-test-driven-development.html).
+  - [Some Test Driven Development observations](http://blog.jayfields.com/2006/06/some-test-driven-development.html)
+  - [More Test Driven Development observations](http://blog.jayfields.com/2006/06/more-test-driven-development.html)
 - Michael Feathers, [A Set of Unit Testing Rules](http://www.artima.com/weblogs/viewpost.jsp?thread=126923).
 - Robert Martin, [Test First](https://8thlight.com/blog/uncle-bob/2013/09/23/Test-first.html).
 - Robert Martin, [The Frenzied Panic of Rushing](https://8thlight.com/blog/uncle-bob/2013/03/11/TheFrenziedPanicOfRushing.html).
