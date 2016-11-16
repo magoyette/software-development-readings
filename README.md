@@ -259,6 +259,7 @@ My personal compilation of online texts about software development.
 
 - Jay Fields, [Refactoring Motivations](http://blog.jayfields.com/2007/12/refactoring-motivations.html).
 - Martin Fowler, [OpportunisticRefactoring](http://martinfowler.com/bliki/OpportunisticRefactoring.html).
+- Nat Pryce, [Complaining about Other People's Code](http://www.natpryce.com/articles/000756.html).
 - Ron Jeffries, [Refactoring -- Not on the backlog!](http://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/).
 
 ### Refactoring Legacy Code
