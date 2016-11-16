@@ -189,6 +189,7 @@ My personal compilation of online texts about software development.
 ### Collective Code Ownership and Pair Programming
 
 - Daniel Irvine, [The egoless programmer](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html).
+- Jay Fields, [Experience Report: Weak Code Ownership](http://blog.jayfields.com/2015/02/experience-report-weak-code-ownership.html).
 
 ### Software Craftsmanship in General
 
