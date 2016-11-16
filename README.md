@@ -314,6 +314,12 @@ My personal compilation of online texts about software development.
   - [More Test Driven Development observations](http://blog.jayfields.com/2006/06/more-test-driven-development.html)
 - Jay Fields, [Tests reflect code quality](http://blog.jayfields.com/2008/02/tests-reflect-code-quality.html).
 - Michael Feathers, [A Set of Unit Testing Rules](http://www.artima.com/weblogs/viewpost.jsp?thread=126923).
+- Nat Pryce, Test Data Builders:
+  - [Test Data Builders: an alternative to the Object Mother pattern](http://www.natpryce.com/articles/000714.html).
+  - [Tricks with Test Data Builders: Defining Common State](http://www.natpryce.com/articles/000724.html).
+  - [Tricks with Test Data Builders: Combining Builders](http://www.natpryce.com/articles/000726.html).
+  - [Tricks with Test Data Builders: Emphase the Domain Model with Factory Methods](http://www.natpryce.com/articles/000727.html).
+  - [Tricks with Test Data Builders: Refactoring Away Duplicated Logic Creates a Domain Specific Embedded Language for Testing](http://www.natpryce.com/articles/000728.html).
 - Nat Pryce, [Two Hypotheses per Test](http://www.natpryce.com/articles/000775.html).
 - Robert Martin, [Test First](https://8thlight.com/blog/uncle-bob/2013/09/23/Test-first.html).
 - Robert Martin, [The Frenzied Panic of Rushing](https://8thlight.com/blog/uncle-bob/2013/03/11/TheFrenziedPanicOfRushing.html).
