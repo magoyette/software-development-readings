@@ -205,6 +205,7 @@ My personal compilation of online texts about software development.
 ### Code Smells
 
 - James Shore, [Primitive Obsession](http://www.jamesshore.com/Blog/PrimitiveObsession.html).
+- Nat Pryce, [Message Obsession](http://www.natpryce.com/articles/000816.html).
 
 ### Design Patterns
 
