@@ -150,8 +150,9 @@ My personal compilation of online texts about software development.
 
 ### Best Practices
 
-- Michael Klishin, [How to Make Your Open Source Project Really Awesome](http://blog.clojurewerkz.org/blog/2013/04/20/how-to-make-your-open-source-project-really-awesome/).
-- Michael Klishin, [How to Make Your Open Source Project Really Awesome, Part 2](http://blog.clojurewerkz.org/blog/2014/07/20/how-to-make-your-open-source-project-really-awesome/).
+- Michael Klishin, [How to Make Your Open Source Project Really Awesome]:
+  - [How to Make Your Open Source Project Really Awesome](http://blog.clojurewerkz.org/blog/2013/04/20/how-to-make-your-open-source-project-really-awesome/).
+  - [How to Make Your Open Source Project Really Awesome, Part 2](http://blog.clojurewerkz.org/blog/2014/07/20/how-to-make-your-open-source-project-really-awesome/).
 
 ### GitHub
 
