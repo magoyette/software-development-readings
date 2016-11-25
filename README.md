@@ -63,8 +63,9 @@ My personal compilation of online texts about software development.
   - [End-to-End Testing](#end-to-end-testing)
   - [Exploratory Testing](#exploratory-testing)
   - [Test Doubles](#test-doubles)
+  - [Test-Driven Development](#test-driven-development)
   - [Types of Tests](#types-of-tests)
-  - [Unit Testing and Test-Driven Development](#unit-testing-and-test-driven-development)
+  - [Unit Testing](#unit-testing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -311,25 +312,33 @@ My personal compilation of online texts about software development.
 - Martin Fowler, [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html).
 - Robert Martin, [When to Mock](https://8thlight.com/blog/uncle-bob/2014/05/10/WhenToMock.html).
 
-### Types of Tests
+### Test-Driven Development
 
-- Nat Pryce, [Visualising Test Terminology](http://www.natpryce.com/articles/000772.html).
-
-### Unit Testing and Test-Driven Development
-
-- Alex Eagle, [Testing on the Toilet: Change-Detector Tests Considered Harmful](https://testing.googleblog.com/2015/01/testing-on-toilet-change-detector-tests.html).
-- Andrew Trenk, [Testing on the Toilet: Prefer Testing Public APIs Over Implementation-Detail Classes](https://testing.googleblog.com/2015/01/testing-on-toilet-prefer-testing-public.html).
-- Bill Wake, [3A – Arrange, Act, Assert](http://xp123.com/articles/3a-arrange-act-assert/).
 - J. B. Rainsberger, [How TDD Affects My Designs](http://blog.thecodewhisperer.com/permalink/how-tdd-affects-my-designs/).
 - J. B. Rainsberger, [What your tests don't need to know will hurt you](http://blog.thecodewhisperer.com/permalink/what-your-tests-dont-need-to-know-will-hurt-you).
 - J. B. Rainsberger, [Your Tests Are Dragging You Down](http://blog.thecodewhisperer.com/permalink/your-tests-are-dragging-you-down/).
-- James Shore, [Testing Private Methods](http://www.jamesshore.com/Blog/Testing-Private-Methods.html).
 - Jason Gorman, [Classic TDD Mistake - Writing Design-Driven Tests](http://codemanship.co.uk/parlezuml/blog/?postid=1375).
 - Jason Gorman, [Squaring The Circle of "Tell, Don't Ask" vs. Test As Close To Implementation As Possible](http://codemanship.co.uk/parlezuml/blog/?postid=1379).
 - Jason Gorman, [TDD & Mocks - Working Backwards From Expectations](http://codemanship.co.uk/parlezuml/blog/?postid=1159).
 - Jay Fields, Some Test Driven Development observations:
   - [Some Test Driven Development observations](http://blog.jayfields.com/2006/06/some-test-driven-development.html)
   - [More Test Driven Development observations](http://blog.jayfields.com/2006/06/more-test-driven-development.html)
+- Nat Pryce, [Two Hypotheses per Test](http://www.natpryce.com/articles/000775.html).
+- Robert Martin, [Test First](https://8thlight.com/blog/uncle-bob/2013/09/23/Test-first.html).
+- Robert Martin, [The Frenzied Panic of Rushing](https://8thlight.com/blog/uncle-bob/2013/03/11/TheFrenziedPanicOfRushing.html).
+- Robert Martin, [The Pragmatics of TDD](https://8thlight.com/blog/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html).
+- Robert Martin, [When Should You Think?](https://8thlight.com/blog/uncle-bob/2014/03/11/when-to-think.html).
+
+### Types of Tests
+
+- Nat Pryce, [Visualising Test Terminology](http://www.natpryce.com/articles/000772.html).
+
+### Unit Testing
+
+- Alex Eagle, [Testing on the Toilet: Change-Detector Tests Considered Harmful](https://testing.googleblog.com/2015/01/testing-on-toilet-change-detector-tests.html).
+- Andrew Trenk, [Testing on the Toilet: Prefer Testing Public APIs Over Implementation-Detail Classes](https://testing.googleblog.com/2015/01/testing-on-toilet-prefer-testing-public.html).
+- Bill Wake, [3A – Arrange, Act, Assert](http://xp123.com/articles/3a-arrange-act-assert/).
+- James Shore, [Testing Private Methods](http://www.jamesshore.com/Blog/Testing-Private-Methods.html).
 - Jay Fields, [Tests reflect code quality](http://blog.jayfields.com/2008/02/tests-reflect-code-quality.html).
 - Michael Feathers, [A Set of Unit Testing Rules](http://www.artima.com/weblogs/viewpost.jsp?thread=126923).
 - Nat Pryce, Test Data Builders:
@@ -338,8 +347,3 @@ My personal compilation of online texts about software development.
   - [Tricks with Test Data Builders: Combining Builders](http://www.natpryce.com/articles/000726.html).
   - [Tricks with Test Data Builders: Emphase the Domain Model with Factory Methods](http://www.natpryce.com/articles/000727.html).
   - [Tricks with Test Data Builders: Refactoring Away Duplicated Logic Creates a Domain Specific Embedded Language for Testing](http://www.natpryce.com/articles/000728.html).
-- Nat Pryce, [Two Hypotheses per Test](http://www.natpryce.com/articles/000775.html).
-- Robert Martin, [Test First](https://8thlight.com/blog/uncle-bob/2013/09/23/Test-first.html).
-- Robert Martin, [The Frenzied Panic of Rushing](https://8thlight.com/blog/uncle-bob/2013/03/11/TheFrenziedPanicOfRushing.html).
-- Robert Martin, [The Pragmatics of TDD](https://8thlight.com/blog/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html).
-- Robert Martin, [When Should You Think?](https://8thlight.com/blog/uncle-bob/2014/03/11/when-to-think.html).
