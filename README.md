@@ -89,6 +89,7 @@ My personal compilation of online texts about software development.
 ### BDD
 
 - Dan North, [Introducing BDD](https://dannorth.net/introducing-bdd/).
+- Matt Wynne, [Introducing Example Mapping](https://cucumber.io/blog/2015/12/08/example-mapping-introduction).
 - Liz Keogh, [Step Away from the Tools](https://lizkeogh.com/2011/03/04/step-away-from-the-tools/).
 
 ### Cucumber
