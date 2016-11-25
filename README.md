@@ -105,6 +105,7 @@ My personal compilation of online texts about software development.
 ### Stories in BDD
 
 - Dan North, [What’s in a Story?](https://dannorth.net/whats-in-a-story/).
+- Gojko Adzic, [User stories should be about behaviour changes](https://gojko.net/2014/02/12/user-stories-should-be-about-behaviour-changes/).
 - Matt Wynne, [Features != User Stories](http://blog.mattwynne.net/2010/10/22/features-user-stories/).
 
 ## Coding
