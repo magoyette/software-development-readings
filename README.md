@@ -324,6 +324,7 @@ My personal compilation of online texts about software development.
 - J. B. Rainsberger, [What your tests don't need to know will hurt you](http://blog.thecodewhisperer.com/permalink/what-your-tests-dont-need-to-know-will-hurt-you).
 - J. B. Rainsberger, [Your Tests Are Dragging You Down](http://blog.thecodewhisperer.com/permalink/your-tests-are-dragging-you-down/).
 - James Shore, [Testing Private Methods](http://www.jamesshore.com/Blog/Testing-Private-Methods.html).
+- Jason Gorman, [Classic TDD Mistake - Writing Design-Driven Tests](http://codemanship.co.uk/parlezuml/blog/?postid=1375).
 - Jason Gorman, [Squaring The Circle of "Tell, Don't Ask" vs. Test As Close To Implementation As Possible](http://codemanship.co.uk/parlezuml/blog/?postid=1379).
 - Jason Gorman, [TDD & Mocks - Working Backwards From Expectations](http://codemanship.co.uk/parlezuml/blog/?postid=1159).
 - Jay Fields, Some Test Driven Development observations:
