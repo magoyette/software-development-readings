@@ -95,6 +95,9 @@ My personal compilation of online texts about software development.
 
 ### Cucumber
 
+- Theo England, Cucumber anti-patterns:
+  - [Cucumber anti-patterns (part one)](https://cucumber.io/blog/2016/07/01/cucumber-antipatterns-part-one)
+  - [Cucumber anti-patterns (part two)](https://cucumber.io/blog/2016/08/31/cucumber-anti-patterns-part-two)
 - Steve Tooke, [The Cucumber Test Trap](http://tooky.co.uk/the-cucumber-test-trap/).
 
 ### Gherkin and Given-When-Then
