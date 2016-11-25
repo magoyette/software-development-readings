@@ -293,6 +293,7 @@ My personal compilation of online texts about software development.
 
 ### Automated Tests in General
 
+- Gojko Adzic, [Five ways to reduce the cost of large test suites](https://gojko.net/favourites/testing/agile/2016/05/24/large-test-suites.html).
 - Jay Fields, [Thoughts on Developer Testing](http://blog.jayfields.com/2009/02/thoughts-on-developer-testing.html).
 
 ### End-to-End Testing
