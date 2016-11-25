@@ -99,6 +99,7 @@ My personal compilation of online texts about software development.
 
 ### Gherkin and Given-When-Then
 
+- Gojko Adzic, [Focus on key examples](https://gojko.net/2014/05/05/focus-on-key-examples/).
 - Gojko Adzic, [How to get the most out of Given-When-Then](https://gojko.net/2015/02/25/how-to-get-the-most-out-of-given-when-then/).
 
 ### Stories in BDD
