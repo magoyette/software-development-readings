@@ -162,6 +162,7 @@ My personal compilation of online texts about software development.
   - [The New Normal: Failure Domains and Safety](http://blog.cognitect.com/blog/2016/7/7/the-new-normal-failure-domains-and-safety)
   - [The New Normal: Mean Time To Reaction](http://blog.cognitect.com/blog/2016/8/11/the-new-normal-mean-time-to-reaction)
   - [The New Normal: Tempo, Flow, and Maneuverability](http://blog.cognitect.com/blog/2016/8/18/the-new-normal-tempo-flow-and-maneuverability)
+- Michael Nygard, [Quantum Backups](http://www.michaelnygard.com/blog/2009/03/quantum-backups/).
 - Steve Freeman, [Test-Driven Development and Embracing Failure](http://higherorderlogic.com/2011/04/tdd-embracing-failure/).
 
 ### DevOps Culture
