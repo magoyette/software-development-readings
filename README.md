@@ -162,6 +162,7 @@ My personal compilation of online texts about software development.
 
 - Chris Beams, [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/).
 - Vincent Driessen, [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/).
+- Zach Holman, [Utter Disregard for Git Commit History](https://zachholman.com/posts/git-commit-history/).
 
 ### Version Control
 
