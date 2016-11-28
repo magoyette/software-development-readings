@@ -179,6 +179,7 @@ My personal compilation of online texts about software development.
 
 ### Microservices
 
+- Lukasz Plotnicki, [BFF @ SoundCloud](https://www.thoughtworks.com/insights/blog/bff-soundcloud).
 - Phil Calçado, Building Products at SoundCloud:
   - [Building Products at SoundCloud — Part I: Dealing with the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-1-dealing-with-the-monolith)
   - [Building Products at SoundCloud — Part II: Breaking the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-2-breaking-the-monolith)
