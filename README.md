@@ -66,6 +66,7 @@ My personal compilation of online texts about software development.
   - [Automated Tests in General](#automated-tests-in-general)
   - [End-to-End Testing](#end-to-end-testing)
   - [Exploratory Testing](#exploratory-testing)
+  - [Mutation Testing](#mutation-testing)
   - [Test Doubles](#test-doubles)
   - [Test-Driven Development](#test-driven-development)
   - [Types of Tests](#types-of-tests)
@@ -339,6 +340,10 @@ My personal compilation of online texts about software development.
 
 - Gojko Adzic, [Explore capabilities, not features](https://gojko.net/2015/03/12/explore-capabilities-not-features/).
 - Lisa Crispin, [Pair Testing](http://lisacrispin.com/2016/09/22/pair-testing/).
+
+### Mutation Testing
+
+- Robert Martin, [Mutation Testing](http://blog.cleancoder.com/uncle-bob/2016/06/10/MutationTesting.html).
 
 ### Test Doubles
 
