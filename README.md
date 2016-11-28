@@ -146,7 +146,20 @@ My personal compilation of online texts about software development.
 
 ### Antifragility and Embracing Failure
 
-- Michael Nygard, [The New Normal: No Silver Bullet](http://blog.cognitect.com/blog/2016/2/25/the-new-normal-no-silver-bullet).
+- Michael Nygard, The New Normal:
+  - [The New Normal: Failure is a Good Thing](http://blog.cognitect.com/blog/2016/2/3/the-new-normal-failure-is-a-good-thing)
+  - [The New Normal: From Resilient to Antifragile](http://blog.cognitect.com/blog/2016/2/18/the-new-normal-from-resilient-to-antifragile)
+  - [The New Normal: No Silver Bullet](http://blog.cognitect.com/blog/2016/2/25/the-new-normal-no-silver-bullet)
+  - [The New Normal: Minimize Risk by Maximizing Change](http://blog.cognitect.com/blog/2016/3/3/the-new-normal-minimize-risk-by-maximizing-change)
+  - [The New Normal: Protected Asset or Disposable Inventory?](http://blog.cognitect.com/blog/2016/3/17/the-new-normal-protected-asset-or-disposable-inventory)
+  - [The New Normal: Embracing Failure with Netflix, the Chaos Monkey, and Chaos Kong](http://blog.cognitect.com/blog/2016/3/24/the-new-normal-embracing-failure-with-netflix-the-chaos-monkey-and-chaos-kong)
+  - [The New Normal: The Art of War, Maneuverability, and Microservices](http://blog.cognitect.com/blog/2016/3/31/the-new-normal-the-art-of-war-maneuverability-and-microservices)
+  - [The New Normal: Everything Relies on Sharp Tools](http://blog.cognitect.com/blog/2016/4/22/the-new-normal-everything-relies-on-sharp-tools)
+  - [The New Normal: Team Scale Autonomy](http://blog.cognitect.com/blog/2016/6/16/the-new-normal-team-scale-autonomy)
+  - [The New Normal: Data Leverage](http://blog.cognitect.com/blog/2016/6/28/the-new-normal-data-leverage)
+  - [The New Normal: Failure Domains and Safety](http://blog.cognitect.com/blog/2016/7/7/the-new-normal-failure-domains-and-safety)
+  - [The New Normal: Mean Time To Reaction](http://blog.cognitect.com/blog/2016/8/11/the-new-normal-mean-time-to-reaction)
+  - [The New Normal: Tempo, Flow, and Maneuverability](http://blog.cognitect.com/blog/2016/8/18/the-new-normal-tempo-flow-and-maneuverability)
 - Steve Freeman, [Test-Driven Development and Embracing Failure](http://higherorderlogic.com/2011/04/tdd-embracing-failure/).
 
 ### DevOps Culture
