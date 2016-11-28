@@ -37,6 +37,7 @@ My personal compilation of online texts about software development.
   - [GitHub](#github)
 - [Software Architecture and Technical Leadership](#software-architecture-and-technical-leadership)
   - [Domain-Driven Design](#domain-driven-design)
+  - [Microservices](#microservices)
   - [Software Architecture](#software-architecture)
   - [Software Architecture Anti-Patterns](#software-architecture-anti-patterns)
   - [Tech Leads](#tech-leads)
@@ -175,6 +176,10 @@ My personal compilation of online texts about software development.
 
 - Martin Fowler, [BoundedContext](http://martinfowler.com/bliki/BoundedContext.html).
 - Martin Fowler, [EvansClassification](http://martinfowler.com/bliki/EvansClassification.html).
+
+### Microservices
+
+- Simon Brown, [Distributed big balls of mud](http://www.codingthearchitecture.com/2014/07/06/distributed_big_balls_of_mud.html).
 
 ### Software Architecture
 
