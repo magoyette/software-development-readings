@@ -128,6 +128,7 @@ My personal compilation of online texts about software development.
 ### Business Transformations
 
 - Jurgen Appelo, [How to Save Your Business](http://noop.nl/2016/04/how-to-save-your-business.html).
+- Michael Nygard, [Beyond the Village](http://www.michaelnygard.com/blog/2008/07/beyond-the-village/).
 
 ## Coding
 
