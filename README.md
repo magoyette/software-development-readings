@@ -91,6 +91,7 @@ My personal compilation of online texts about software development.
 
 ### Agile Tips
 
+- Jason Gorman, [The Small Teams Manifesto](http://codemanship.co.uk/parlezuml/blog/?postid=1322).
 - Martin Fowler, [FrequencyReducesDifficulty](http://martinfowler.com/bliki/FrequencyReducesDifficulty.html).
 
 ### Continuous Improvement
