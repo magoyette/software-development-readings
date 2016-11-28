@@ -13,6 +13,7 @@ My personal compilation of online texts about software development.
 
 - [Agile](#agile)
   - [Agile Methodologies](#agile-methodologies)
+  - [Agile Practices](#agile-practices)
   - [Agile Tips](#agile-tips)
   - [Scrum](#scrum)
 - [BDD and Specification by Example](#bdd-and-specification-by-example)
@@ -75,6 +76,10 @@ My personal compilation of online texts about software development.
 ### Agile Methodologies
 
 - Ben Linders, [Don't Copy the Spotify Model](https://www.infoq.com/news/2016/10/no-spotify-model).
+
+### Agile Practices
+
+- Jason Yip, [It's Not Just Standing Up: Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html).
 
 ### Agile Tips
 
