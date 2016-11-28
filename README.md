@@ -21,6 +21,8 @@ My personal compilation of online texts about software development.
   - [Cucumber](#cucumber)
   - [Gherkin and Given-When-Then](#gherkin-and-given-when-then)
   - [Stories in BDD](#stories-in-bdd)
+- [Business](#business)
+  - [Business Transformations](#business-transformations)
 - [Coding](#coding)
   - [Coding Tips](#coding-tips)
   - [Logging](#logging)
@@ -120,6 +122,12 @@ My personal compilation of online texts about software development.
 - Gojko Adzic, [Throw user stories away after they are delivered](https://gojko.net/2014/03/25/throw-user-stories-away-after-they-are-delivered/).
 - Gojko Adzic, [User stories should be about behaviour changes](https://gojko.net/2014/02/12/user-stories-should-be-about-behaviour-changes/).
 - Matt Wynne, [Features != User Stories](http://blog.mattwynne.net/2010/10/22/features-user-stories/).
+
+## Business
+
+### Business Transformations
+
+- Jurgen Appelo, [How to Save Your Business](http://noop.nl/2016/04/how-to-save-your-business.html).
 
 ## Coding
 
