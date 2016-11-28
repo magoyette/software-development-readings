@@ -179,6 +179,10 @@ My personal compilation of online texts about software development.
 
 ### Microservices
 
+- Phil Calçado, Building Products at SoundCloud:
+  - [Building Products at SoundCloud — Part I: Dealing with the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-1-dealing-with-the-monolith)
+  - [Building Products at SoundCloud — Part II: Breaking the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-2-breaking-the-monolith)
+  - [Building Products at SoundCloud — Part III: Microservices in Scala and Finagle](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-3-microservices-in-scala-and-finagle)
 - Simon Brown, [Distributed big balls of mud](http://www.codingthearchitecture.com/2014/07/06/distributed_big_balls_of_mud.html).
 
 ### Software Architecture
