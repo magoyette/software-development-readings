@@ -67,6 +67,7 @@ My personal compilation of online texts about software development.
   - [End-to-End Testing](#end-to-end-testing)
   - [Exploratory Testing](#exploratory-testing)
   - [Mutation Testing](#mutation-testing)
+  - [QA environment](#qa-environment)
   - [Test Doubles](#test-doubles)
   - [Test-Driven Development](#test-driven-development)
   - [Types of Tests](#types-of-tests)
@@ -361,6 +362,10 @@ My personal compilation of online texts about software development.
 ### Mutation Testing
 
 - Robert Martin, [Mutation Testing](http://blog.cleancoder.com/uncle-bob/2016/06/10/MutationTesting.html).
+
+### QA environment
+
+- Michael Nygard, [QA Instability Implies Production Instability](http://www.michaelnygard.com/blog/2016/07/qa-instability-implies-production-instability/).
 
 ### Test Doubles
 
