@@ -15,6 +15,7 @@ My personal compilation of online texts about software development.
   - [Agile Methodologies](#agile-methodologies)
   - [Agile Practices](#agile-practices)
   - [Agile Tips](#agile-tips)
+  - [Continuous Improvement](#continuous-improvement)
   - [Scrum](#scrum)
 - [BDD and Specification by Example](#bdd-and-specification-by-example)
   - [BDD](#bdd)
@@ -91,6 +92,10 @@ My personal compilation of online texts about software development.
 ### Agile Tips
 
 - Martin Fowler, [FrequencyReducesDifficulty](http://martinfowler.com/bliki/FrequencyReducesDifficulty.html).
+
+### Continuous Improvement
+
+- Michael Nygard, [In Love With Your Warts](http://www.michaelnygard.com/blog/2016/04/in-love-with-your-warts/).
 
 ### Scrum
 
