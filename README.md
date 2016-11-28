@@ -80,6 +80,7 @@ My personal compilation of online texts about software development.
 ### Agile Practices
 
 - Jason Yip, [It's Not Just Standing Up: Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html).
+- Mattias Skarin, [12 seemingly normal things Agile people do](http://blog.crisp.se/2016/04/04/mattiasskarin/12-seemingly-normal-things-agile-people-do).
 
 ### Agile Tips
 
