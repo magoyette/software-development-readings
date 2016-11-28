@@ -176,6 +176,7 @@ My personal compilation of online texts about software development.
 
 - Martin Fowler, [BoundedContext](http://martinfowler.com/bliki/BoundedContext.html).
 - Martin Fowler, [EvansClassification](http://martinfowler.com/bliki/EvansClassification.html).
+- Martin Fowler, [ValueObject](http://martinfowler.com/bliki/ValueObject.html).
 
 ### Microservices
 
