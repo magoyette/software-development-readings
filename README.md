@@ -178,6 +178,7 @@ My personal compilation of online texts about software development.
 
 ### Software Architecture
 
+- Patrick Kua, [The Well Rounded Architect](https://www.thekua.com/atwork/2016/11/the-well-rounded-architect/).
 - Robert Martin, [Service Oriented Agony](https://8thlight.com/blog/uncle-bob/2012/02/01/Service-Oriented-Agony.html).
 - Robert Martin, [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html).
 
