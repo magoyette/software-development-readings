@@ -147,6 +147,7 @@ My personal compilation of online texts about software development.
 
 - Jay Fields, [Be Your Start-Up](http://blog.jayfields.com/2008/08/be-your-start-up.html).
 - Jay Fields, [Is Productivity Killing Your Creativity?](http://blog.jayfields.com/2012/05/is-productivity-killing-your-creativity.html).
+- Paul Graham, [Great Hackers](http://www.paulgraham.com/gh.html).
 
 ## Coding
 
