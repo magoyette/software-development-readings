@@ -31,6 +31,7 @@ My personal compilation of online texts about software development.
   - [Logging](#logging)
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
   - [Antifragility and Embracing Failure](#antifragility-and-embracing-failure)
+  - [Continuous Delivery Infrastructure](#continuous-delivery-infrastructure)
   - [DevOps Culture](#devops-culture)
 - [Continuous Integration](#continuous-integration)
   - [Continuous Integration Coding Techniques](#continuous-integration-coding-techniques)
@@ -187,6 +188,10 @@ My personal compilation of online texts about software development.
   - [The New Normal: Tempo, Flow, and Maneuverability](http://blog.cognitect.com/blog/2016/8/18/the-new-normal-tempo-flow-and-maneuverability)
 - Michael Nygard, [Quantum Backups](http://www.michaelnygard.com/blog/2009/03/quantum-backups/).
 - Steve Freeman, [Test-Driven Development and Embracing Failure](http://higherorderlogic.com/2011/04/tdd-embracing-failure/).
+
+### Continuous Delivery Infrastructure
+
+- Martin Fowler, [InfrastructureAsCode](http://martinfowler.com/bliki/InfrastructureAsCode.html).
 
 ### DevOps Culture
 
