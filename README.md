@@ -256,6 +256,7 @@ My personal compilation of online texts about software development.
 ### Software Architecture
 
 - Martin Fowler, [InternalReprogrammability](http://martinfowler.com/bliki/InternalReprogrammability.html).
+- Martin Fowler, [SacrificialArchitecture](http://martinfowler.com/bliki/SacrificialArchitecture.html).
 - Michael Nygard, [Architecting for Latency](http://www.michaelnygard.com/blog/2007/11/architecting-for-latency/).
 - Michael Nygard, [The Perils of Semantic Coupling](http://www.michaelnygard.com/blog/2015/04/the-perils-of-semantic-coupling/).
 - Neal Ford, [Why Everyone (Eventually) Hates (or Leaves) Maven](http://nealford.com/memeagora/2013/01/22/why_everyone_eventually_hates_maven.html).
