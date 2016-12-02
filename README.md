@@ -50,6 +50,7 @@ My personal compilation of online texts about software development.
   - [Software Architecture Anti-Patterns](#software-architecture-anti-patterns)
   - [Tech Leads](#tech-leads)
 - [Software Craftsmanship](#software-craftsmanship)
+  - [Code Reviews](#code-reviews)
   - [Collective Code Ownership and Pair Programming](#collective-code-ownership-and-pair-programming)
   - [Software Craftsmanship in General](#software-craftsmanship-in-general)
 - [Software Design](#software-design)
@@ -280,6 +281,10 @@ My personal compilation of online texts about software development.
 - Patrick Kua, [Top 5 Mistakes for First Time Tech Leads](https://www.thekua.com/atwork/2014/10/top-5-mistakes-for-first-time-tech-leads/).
 
 ## Software Craftsmanship
+
+### Code Reviews
+
+- Bruce Johnson, [What we learned from Google: code reviews aren’t just for catching bugs](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292#.pww8lj8nd).
 
 ### Collective Code Ownership and Pair Programming
 
