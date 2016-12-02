@@ -24,7 +24,7 @@ My personal compilation of online texts about software development.
   - [Stories in BDD](#stories-in-bdd)
 - [Business](#business)
   - [Business Transformations](#business-transformations)
-- [Career](#career)
+- [Career and Productivity](#career-and-productivity)
 - [Coding](#coding)
   - [Coding in General](#coding-in-general)
   - [Coding Tips](#coding-tips)
@@ -144,11 +144,12 @@ My personal compilation of online texts about software development.
 - Jurgen Appelo, [How to Save Your Business](http://noop.nl/2016/04/how-to-save-your-business.html).
 - Michael Nygard, [Beyond the Village](http://www.michaelnygard.com/blog/2008/07/beyond-the-village/).
 
-## Career
+## Career and Productivity
 
 - Jay Fields, [Be Your Start-Up](http://blog.jayfields.com/2008/08/be-your-start-up.html).
 - Jay Fields, [Is Productivity Killing Your Creativity?](http://blog.jayfields.com/2012/05/is-productivity-killing-your-creativity.html).
 - Paul Graham, [Great Hackers](http://www.paulgraham.com/gh.html).
+- Paul Graham, [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html).
 
 ## Coding
 
