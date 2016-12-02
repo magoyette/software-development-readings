@@ -26,6 +26,7 @@ My personal compilation of online texts about software development.
   - [Business Transformations](#business-transformations)
 - [Career](#career)
 - [Coding](#coding)
+  - [Coding in General](#coding-in-general)
   - [Coding Tips](#coding-tips)
   - [Logging](#logging)
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
@@ -150,6 +151,10 @@ My personal compilation of online texts about software development.
 - Paul Graham, [Great Hackers](http://www.paulgraham.com/gh.html).
 
 ## Coding
+
+### Coding in General
+
+- Paul Graham, [Holding a Program in One's Head](http://www.paulgraham.com/head.html).
 
 ### Coding Tips
 
