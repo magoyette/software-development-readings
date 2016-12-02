@@ -63,6 +63,7 @@ My personal compilation of online texts about software development.
   - [Refactoring](#refactoring)
   - [Refactoring Legacy Code](#refactoring-legacy-code)
   - [Technical Debt](#technical-debt)
+- [Technical Writing](#technical-writing)
 - [Testing](#testing)
   - [Acceptance Testing](#acceptance-testing)
   - [Automated Tests in General](#automated-tests-in-general)
@@ -350,6 +351,10 @@ My personal compilation of online texts about software development.
 - Michael Nygard, [The Fear Cycle](http://www.michaelnygard.com/blog/2015/07/the-fear-cycle/).
 - Stephen Freeman, [Bad code isn't Technical Debt, it's an unhedged Call Option](http://higherorderlogic.com/2010/07/bad-code-isnt-technical-debt-its-an-unhedged-call-option/).
 - Tom Grant, [Technical Debt Is A Systemic Problem, Not A Personal Failing](http://www.netobjectives.com/blogs/technical-debt-systemic-problem-not-personal-failing).
+
+## Technical Writing
+
+- Jay Fields, [Example Dilemma](http://blog.jayfields.com/2008/03/example-dilemma.html).
 
 ## Testing
 
