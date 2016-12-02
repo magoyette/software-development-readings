@@ -46,6 +46,7 @@ My personal compilation of online texts about software development.
   - [Domain-Driven Design](#domain-driven-design)
   - [Microservices](#microservices)
   - [Microservices at SoundCloud](#microservices-at-soundcloud)
+  - [Risk Management](#risk-management)
   - [Serverless Architecture](#serverless-architecture)
   - [Software Architecture](#software-architecture)
   - [Software Architecture Anti-Patterns](#software-architecture-anti-patterns)
@@ -254,6 +255,10 @@ My personal compilation of online texts about software development.
   - [Building Products at SoundCloud — Part II: Breaking the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-2-breaking-the-monolith)
   - [Building Products at SoundCloud — Part III: Microservices in Scala and Finagle](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-3-microservices-in-scala-and-finagle)
 - Tom Stuart, [Microservices and the monolith](https://developers.soundcloud.com/blog/microservices-and-the-monolith).
+
+### Risk Management
+
+- Simon Brown, [Risk-storming: A collaborative and visual technique for identifying risk](http://www.codingthearchitecture.com/2012/07/11/risk_storming.html).
 
 ### Serverless Architecture
 
