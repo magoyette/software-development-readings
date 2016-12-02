@@ -45,6 +45,7 @@ My personal compilation of online texts about software development.
   - [Domain-Driven Design](#domain-driven-design)
   - [Microservices](#microservices)
   - [Microservices at SoundCloud](#microservices-at-soundcloud)
+  - [Serverless Architecture](#serverless-architecture)
   - [Software Architecture](#software-architecture)
   - [Software Architecture Anti-Patterns](#software-architecture-anti-patterns)
   - [Tech Leads](#tech-leads)
@@ -247,6 +248,10 @@ My personal compilation of online texts about software development.
   - [Building Products at SoundCloud — Part II: Breaking the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-2-breaking-the-monolith)
   - [Building Products at SoundCloud — Part III: Microservices in Scala and Finagle](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-3-microservices-in-scala-and-finagle)
 - Tom Stuart, [Microservices and the monolith](https://developers.soundcloud.com/blog/microservices-and-the-monolith).
+
+### Serverless Architecture
+
+- Gojko Adzic, [Serverless architectures: game-changer or a recycled fad?](https://gojko.net/2016/08/27/serverless.html).
 
 ### Software Architecture
 
