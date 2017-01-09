@@ -293,6 +293,7 @@ My personal compilation of online texts about software development.
 - Patrick Kua, [Tech Lead – Circles of Responsibility](https://www.thekua.com/atwork/2015/06/tech-lead-circles-of-responsibility/).
 - Patrick Kua, [The Definition of a Tech Lead](https://www.thekua.com/atwork/2014/11/the-definition-of-a-tech-lead/).
 - Patrick Kua, [Top 5 Mistakes for First Time Tech Leads](https://www.thekua.com/atwork/2014/10/top-5-mistakes-for-first-time-tech-leads/).
+- Patrick Kua, [You may not need a Tech Lead, but others do](https://www.thekua.com/atwork/2016/12/you-may-not-need-a-tech-lead-but-others-do/).
 
 ## Software Craftsmanship
 
