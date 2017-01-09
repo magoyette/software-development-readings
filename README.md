@@ -12,6 +12,7 @@ My personal compilation of online texts about software development.
 
 
 - [Agile](#agile)
+  - [Agile in General](#agile-in-general)
   - [Agile Methodologies](#agile-methodologies)
   - [Agile Practices](#agile-practices)
   - [Agile Tips](#agile-tips)
@@ -88,6 +89,10 @@ My personal compilation of online texts about software development.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Agile
+
+### Agile in General
+
+- Dave Thomas, [Agile is Dead (Long Live Agility)](https://pragdave.me/blog/2014/03/04/time-to-kill-agile/).
 
 ### Agile Methodologies
 
