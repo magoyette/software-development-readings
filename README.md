@@ -262,6 +262,7 @@ My personal compilation of online texts about software development.
 
 ### Microservices
 
+- Martin Fowler, [Microservice Trade-Offs](https://martinfowler.com/articles/microservice-trade-offs.html).
 - Simon Brown, [Distributed big balls of mud](http://www.codingthearchitecture.com/2014/07/06/distributed_big_balls_of_mud.html).
 
 ### Microservices at SoundCloud
