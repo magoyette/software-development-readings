@@ -356,6 +356,7 @@ My personal compilation of online texts about software development.
 - Martin Fowler, [Yagni](http://martinfowler.com/bliki/Yagni.html).
 - Robert Martin, [The Open Closed Principle](https://8thlight.com/blog/uncle-bob/2014/05/12/TheOpenClosedPrinciple.html).
 - Robert Martin, [The Single Responsibility Principle](https://8thlight.com/blog/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html).
+- Sandro Mancuso, [Balanced Abstraction Principle](https://codurance.com/2015/01/27/balanced-abstraction-principle/).
 
 ### Design Tips
 
