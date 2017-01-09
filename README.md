@@ -214,6 +214,7 @@ My personal compilation of online texts about software development.
 ### Git
 
 - Chris Beams, [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/).
+- Ryan Tomayko, [The Thing About Git](http://2ndscale.com/rtomayko/2008/the-thing-about-git).
 - Vincent Driessen, [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/).
 - Zach Holman, [Utter Disregard for Git Commit History](https://zachholman.com/posts/git-commit-history/).
 
