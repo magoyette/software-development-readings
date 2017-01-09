@@ -73,6 +73,7 @@ My personal compilation of online texts about software development.
 - [Testing](#testing)
   - [Acceptance Testing](#acceptance-testing)
   - [Automated Tests in General](#automated-tests-in-general)
+  - [Contract Tests](#contract-tests)
   - [End-to-End Testing](#end-to-end-testing)
   - [Exploratory Testing](#exploratory-testing)
   - [Mutation Testing](#mutation-testing)
@@ -407,6 +408,10 @@ My personal compilation of online texts about software development.
 - Gojko Adzic, [Five ways to reduce the cost of large test suites](https://gojko.net/favourites/testing/agile/2016/05/24/large-test-suites.html).
 - J. B. Rainsberger, [Clearing Up the Integrated Tests Scam](http://blog.thecodewhisperer.com/permalink/clearing-up-the-integrated-tests-scam/).
 - Jay Fields, [Thoughts on Developer Testing](http://blog.jayfields.com/2009/02/thoughts-on-developer-testing.html).
+
+### Contract Tests
+
+- Martin Fowler, [IntegrationContractTest](https://martinfowler.com/bliki/IntegrationContractTest.html).
 
 ### End-to-End Testing
 
