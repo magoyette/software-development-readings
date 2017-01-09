@@ -263,6 +263,7 @@ My personal compilation of online texts about software development.
 
 - Alberto Brandolini, [Introducing Event Storming](http://ziobrando.blogspot.ca/2013/11/introducing-event-storming.html).
 - Martin Fowler, [BoundedContext](http://martinfowler.com/bliki/BoundedContext.html).
+- Martin Fowler, [CQRS](https://martinfowler.com/bliki/CQRS.html).
 - Martin Fowler, [EvansClassification](http://martinfowler.com/bliki/EvansClassification.html).
 - Martin Fowler, [ValueObject](http://martinfowler.com/bliki/ValueObject.html).
 
