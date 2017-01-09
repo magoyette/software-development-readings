@@ -29,6 +29,7 @@ My personal compilation of online texts about software development.
   - [Clean Code](#clean-code)
   - [Coding in General](#coding-in-general)
   - [Coding Tips](#coding-tips)
+  - [Fun Stuff](#fun-stuff)
   - [Logging](#logging)
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
   - [Antifragility and Embracing Failure](#antifragility-and-embracing-failure)
@@ -175,6 +176,10 @@ My personal compilation of online texts about software development.
 ### Coding Tips
 
 - Dariusz Pasciak, [Alternatives to boolean parameters](https://8thlight.com/blog/dariusz-pasciak/2015/05/28/alternatives-to-boolean-parameters.html).
+
+### Fun Stuff
+
+- Luke Maciak, [What does your favorite text editor say about you?](http://www.terminally-incoherent.com/blog/2007/08/14/what-does-your-favorite-text-editor-say-about-you/).
 
 ### Logging
 
