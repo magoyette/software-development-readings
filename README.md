@@ -161,6 +161,7 @@ My personal compilation of online texts about software development.
 ### Coding in General
 
 - Joel Spolsky, [Five Worlds](https://www.joelonsoftware.com/2002/05/06/five-worlds/).
+- Joel Spolsky, [In Defense of Not-Invented-Here Syndrome](https://www.joelonsoftware.com/2001/10/14/in-defense-of-not-invented-here-syndrome/).
 - Paul Graham, [Holding a Program in One's Head](http://www.paulgraham.com/head.html).
 
 ### Coding Tips
