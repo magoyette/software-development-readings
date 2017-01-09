@@ -26,6 +26,7 @@ My personal compilation of online texts about software development.
   - [Business Transformations](#business-transformations)
 - [Career and Productivity](#career-and-productivity)
 - [Coding](#coding)
+  - [Clean Code](#clean-code)
   - [Coding in General](#coding-in-general)
   - [Coding Tips](#coding-tips)
   - [Logging](#logging)
@@ -158,6 +159,10 @@ My personal compilation of online texts about software development.
 - Paul Graham, [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html).
 
 ## Coding
+
+### Clean Code
+
+- Martin Fowler, [FunctionLength](https://martinfowler.com/bliki/FunctionLength.html).
 
 ### Coding in General
 
