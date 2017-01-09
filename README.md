@@ -160,6 +160,7 @@ My personal compilation of online texts about software development.
 
 ### Coding in General
 
+- Joel Spolsky, [Five Worlds](https://www.joelonsoftware.com/2002/05/06/five-worlds/).
 - Paul Graham, [Holding a Program in One's Head](http://www.paulgraham.com/head.html).
 
 ### Coding Tips
