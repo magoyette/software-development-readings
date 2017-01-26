@@ -32,6 +32,7 @@ My personal compilation of online texts about software development.
   - [Clean Code](#clean-code)
   - [Coding in General](#coding-in-general)
   - [Coding Tips](#coding-tips)
+  - [Documentation](#documentation)
   - [Fun Stuff](#fun-stuff)
   - [Logging](#logging)
 - [Continuous Delivery and DevOps](#continuous-delivery-and-devops)
@@ -197,6 +198,10 @@ My personal compilation of online texts about software development.
 ### Coding Tips
 
 - Dariusz Pasciak, [Alternatives to boolean parameters](https://8thlight.com/blog/dariusz-pasciak/2015/05/28/alternatives-to-boolean-parameters.html).
+
+### Documentation
+
+- Tom Preston-Werner, [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html).
 
 ### Fun Stuff
 
