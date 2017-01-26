@@ -28,6 +28,7 @@ My personal compilation of online texts about software development.
   - [Company Culture](#company-culture)
 - [Career and Productivity](#career-and-productivity)
   - [Career and Hiring](#career-and-hiring)
+  - [Leadership](#leadership)
   - [Productivity, Creativity and Focus](#productivity-creativity-and-focus)
 - [Coding](#coding)
   - [Bugs](#bugs)
@@ -174,6 +175,10 @@ My personal compilation of online texts about software development.
 - Dan Luu, [We only hire the best means we only hire the trendiest](http://danluu.com/programmer-moneyball/).
 - Jay Fields, [Be Your Start-Up](http://blog.jayfields.com/2008/08/be-your-start-up.html).
 - Michael Lopp, [Shields Down](http://randsinrepose.com/archives/shields-down/).
+
+### Leadership
+
+- Michael Lopp, [Five Leadership Hacks](http://randsinrepose.com/archives/five-leadership-hacks/).
 
 ### Productivity, Creativity and Focus
 
