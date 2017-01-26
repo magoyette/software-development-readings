@@ -162,6 +162,7 @@ My personal compilation of online texts about software development.
 ## Career and Productivity
 
 - Dan Luu, [We only hire the best means we only hire the trendiest](http://danluu.com/programmer-moneyball/).
+- Jason Fried, [Restoring Sanity to the Office](https://m.signalvnoise.com/restoring-sanity-to-the-office-d9d35dd8689e#.962qamz2m).
 - Jay Fields, [Be Your Start-Up](http://blog.jayfields.com/2008/08/be-your-start-up.html).
 - Jay Fields, [Is Productivity Killing Your Creativity?](http://blog.jayfields.com/2012/05/is-productivity-killing-your-creativity.html).
 - Joel Spolsky, [Human Task Switches Considered Harmful](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/).
