@@ -480,6 +480,7 @@ My personal compilation of online texts about software development.
 - Jason Gorman, [Classic TDD Mistake - Writing Design-Driven Tests](http://codemanship.co.uk/parlezuml/blog/?postid=1375).
 - Jason Gorman, [Squaring The Circle of "Tell, Don't Ask" vs. Test As Close To Implementation As Possible](http://codemanship.co.uk/parlezuml/blog/?postid=1379).
 - Jason Gorman, [TDD & Mocks - Working Backwards From Expectations](http://codemanship.co.uk/parlezuml/blog/?postid=1159).
+- Jason Gorman, [Triangulating Your Test Code](http://codemanship.co.uk/parlezuml/blog/?postid=1315).
 - Jason Gorman, [What Not To Do In a TDD Pair Programming Interview](http://codemanship.co.uk/parlezuml/blog/?postid=1324).
 - Jay Fields, Some Test Driven Development observations:
   - [Some Test Driven Development observations](http://blog.jayfields.com/2006/06/some-test-driven-development.html)
