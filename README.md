@@ -40,6 +40,8 @@ My personal compilation of online texts about software development.
   - [Continuous Integration Coding Techniques](#continuous-integration-coding-techniques)
   - [Git](#git)
   - [Version Control](#version-control)
+- [Databases](#databases)
+  - [Database Design](#database-design)
 - [Java](#java)
   - [Javadoc](#javadoc)
 - [Open Source Software](#open-source-software)
@@ -238,6 +240,12 @@ My personal compilation of online texts about software development.
 
 - Martin Fowler, [FeatureBranch](http://martinfowler.com/bliki/FeatureBranch.html).
 - Martin Fowler, [SemanticConflict](http://martinfowler.com/bliki/SemanticConflict.html).
+
+## Databases
+
+### Database Design
+
+- Pramod Sadalage and Martin Fowler, [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html).
 
 ## Java
 
