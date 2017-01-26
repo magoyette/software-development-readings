@@ -179,6 +179,7 @@ My personal compilation of online texts about software development.
 
 ### Coding in General
 
+- Dan Luu, [Normalization of deviance in software: how broken practices become standard](https://danluu.com/wat/).
 - David Cassel, [Hype-Driven Development, from Frameworks to Microservices](http://thenewstack.io/programmers-react-warning-hype-driven-development/).
 - Joel Spolsky, [Five Worlds](https://www.joelonsoftware.com/2002/05/06/five-worlds/).
 - Joel Spolsky, [In Defense of Not-Invented-Here Syndrome](https://www.joelonsoftware.com/2001/10/14/in-defense-of-not-invented-here-syndrome/).
