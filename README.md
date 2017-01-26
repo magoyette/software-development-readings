@@ -172,6 +172,7 @@ My personal compilation of online texts about software development.
 - Jay Fields, [Be Your Start-Up](http://blog.jayfields.com/2008/08/be-your-start-up.html).
 - Jay Fields, [Is Productivity Killing Your Creativity?](http://blog.jayfields.com/2012/05/is-productivity-killing-your-creativity.html).
 - Joel Spolsky, [Human Task Switches Considered Harmful](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/).
+- Michael Lopp, [Shields Down](http://randsinrepose.com/archives/shields-down/).
 - Paul Graham, [Great Hackers](http://www.paulgraham.com/gh.html).
 - Paul Graham, [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html).
 
