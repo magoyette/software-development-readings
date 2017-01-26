@@ -27,6 +27,7 @@ My personal compilation of online texts about software development.
   - [Business Transformations](#business-transformations)
 - [Career and Productivity](#career-and-productivity)
 - [Coding](#coding)
+  - [Bugs](#bugs)
   - [Clean Code](#clean-code)
   - [Coding in General](#coding-in-general)
   - [Coding Tips](#coding-tips)
@@ -167,6 +168,10 @@ My personal compilation of online texts about software development.
 - Paul Graham, [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html).
 
 ## Coding
+
+### Bugs
+
+- Joel Spolsky, [Hard-assed Bug Fixin’](https://www.joelonsoftware.com/2001/07/31/hard-assed-bug-fixin/).
 
 ### Clean Code
 
