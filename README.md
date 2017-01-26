@@ -25,6 +25,7 @@ My personal compilation of online texts about software development.
   - [Stories in BDD](#stories-in-bdd)
 - [Business](#business)
   - [Business Transformations](#business-transformations)
+  - [Company Culture](#company-culture)
 - [Career and Productivity](#career-and-productivity)
 - [Coding](#coding)
   - [Bugs](#bugs)
@@ -158,6 +159,10 @@ My personal compilation of online texts about software development.
 
 - Jurgen Appelo, [How to Save Your Business](http://noop.nl/2016/04/how-to-save-your-business.html).
 - Michael Nygard, [Beyond the Village](http://www.michaelnygard.com/blog/2008/07/beyond-the-village/).
+
+### Company Culture
+
+- Brian Chesky, [Don’t Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4#.ol8414xuy).
 
 ## Career and Productivity
 
