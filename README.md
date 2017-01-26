@@ -244,6 +244,7 @@ My personal compilation of online texts about software development.
 
 ### Version Control
 
+- Dan Luu, [Advantages of monolithic version control](http://danluu.com/monorepo/).
 - Martin Fowler, [FeatureBranch](http://martinfowler.com/bliki/FeatureBranch.html).
 - Martin Fowler, [SemanticConflict](http://martinfowler.com/bliki/SemanticConflict.html).
 
