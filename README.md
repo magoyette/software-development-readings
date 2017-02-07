@@ -207,6 +207,7 @@ My personal compilation of online texts about software development.
 - James Hague, [Recovering From a Computer Science Education](http://prog21.dadgum.com/123.html).
 - James Hague, [You Can't Sit on the Sidelines and Become a Philosopher](http://prog21.dadgum.com/197.html).
 - James Hague, [You Don't Want to Think Like a Programmer](http://prog21.dadgum.com/190.html).
+- James Hague, [Your Coding Philosophies are Irrelevant](http://prog21.dadgum.com/142.html).
 - Joel Spolsky, [Five Worlds](https://www.joelonsoftware.com/2002/05/06/five-worlds/).
 - Joel Spolsky, [In Defense of Not-Invented-Here Syndrome](https://www.joelonsoftware.com/2001/10/14/in-defense-of-not-invented-here-syndrome/).
 - Joel Spolsky, [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/).
