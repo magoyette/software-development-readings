@@ -205,6 +205,7 @@ My personal compilation of online texts about software development.
 - David Cassel, [Hype-Driven Development, from Frameworks to Microservices](http://thenewstack.io/programmers-react-warning-hype-driven-development/).
 - James Hague, [Don't Fall in Love With Your Technology](http://prog21.dadgum.com/128.html).
 - James Hague, [Recovering From a Computer Science Education](http://prog21.dadgum.com/123.html).
+- James Hague, [The Silent Majority of Experts](http://prog21.dadgum.com/143.html).
 - James Hague, [You Can't Sit on the Sidelines and Become a Philosopher](http://prog21.dadgum.com/197.html).
 - James Hague, [You Don't Want to Think Like a Programmer](http://prog21.dadgum.com/190.html).
 - James Hague, [Your Coding Philosophies are Irrelevant](http://prog21.dadgum.com/142.html).
