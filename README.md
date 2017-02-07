@@ -42,6 +42,7 @@ My personal compilation of online texts about software development.
   - [Antifragility and Embracing Failure](#antifragility-and-embracing-failure)
   - [Continuous Delivery Infrastructure](#continuous-delivery-infrastructure)
   - [DevOps Culture](#devops-culture)
+  - [Monitoring](#monitoring)
 - [Continuous Integration](#continuous-integration)
   - [Continuous Integration Coding Techniques](#continuous-integration-coding-techniques)
   - [Git](#git)
@@ -253,6 +254,10 @@ My personal compilation of online texts about software development.
 
 - Elisabeth Hendrickson, [I Prefer This Over That](http://testobsessed.com/2015/05/i-prefer-this-over-that/).
 - Rouan Wilsenach, [DevOpsCulture](https://martinfowler.com/bliki/DevOpsCulture.html).
+
+### Monitoring
+
+- Flávia Falé and Serge Gebhardt, [SyntheticMonitoring](https://martinfowler.com/bliki/SyntheticMonitoring.html).
 
 ## Continuous Integration
 
