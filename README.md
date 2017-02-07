@@ -203,6 +203,7 @@ My personal compilation of online texts about software development.
 
 - Dan Luu, [Normalization of deviance in software: how broken practices become standard](https://danluu.com/wat/).
 - David Cassel, [Hype-Driven Development, from Frameworks to Microservices](http://thenewstack.io/programmers-react-warning-hype-driven-development/).
+- James Hague, [You Can't Sit on the Sidelines and Become a Philosopher](http://prog21.dadgum.com/197.html).
 - James Hague, [You Don't Want to Think Like a Programmer](http://prog21.dadgum.com/190.html).
 - Joel Spolsky, [Five Worlds](https://www.joelonsoftware.com/2002/05/06/five-worlds/).
 - Joel Spolsky, [In Defense of Not-Invented-Here Syndrome](https://www.joelonsoftware.com/2001/10/14/in-defense-of-not-invented-here-syndrome/).
