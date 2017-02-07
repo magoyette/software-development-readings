@@ -258,6 +258,7 @@ My personal compilation of online texts about software development.
 ### Monitoring
 
 - Flávia Falé and Serge Gebhardt, [SyntheticMonitoring](https://martinfowler.com/bliki/SyntheticMonitoring.html).
+- Mathias Meyer, [The Virtues of Monitoring](http://www.paperplanes.de/2011/1/5/the_virtues_of_monitoring.html).
 
 ## Continuous Integration
 
