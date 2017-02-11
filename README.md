@@ -101,7 +101,7 @@ My personal compilation of online texts about software development.
 
 ### Agile in General
 
-- Dave Thomas, [Agile is Dead (Long Live Agility)](https://pragdave.me/blog/2014/03/04/time-to-kill-agile/).
+- Dave Thomas, [Agile is Dead (Long Live Agility)](https://pragdave.me/blog/2014/03/04/time-to-kill-agile.html).
 
 ### Agile Methodologies
 
