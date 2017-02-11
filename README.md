@@ -343,6 +343,7 @@ My personal compilation of online texts about software development.
 ### Serverless Architecture
 
 - Gojko Adzic, [Serverless architectures: game-changer or a recycled fad?](https://gojko.net/2016/08/27/serverless.html).
+- Mike Roberts, [Serverless Architectures](https://martinfowler.com/articles/serverless.html).
 
 ### Software Architecture
 
