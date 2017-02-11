@@ -349,6 +349,7 @@ My personal compilation of online texts about software development.
 
 - Martin Fowler, [InternalReprogrammability](http://martinfowler.com/bliki/InternalReprogrammability.html).
 - Martin Fowler, [SacrificialArchitecture](http://martinfowler.com/bliki/SacrificialArchitecture.html).
+- Martin Fowler, [What do you mean by “Event-Driven”?](https://martinfowler.com/articles/201701-event-driven.html).
 - Michael Nygard, [Architecting for Latency](http://www.michaelnygard.com/blog/2007/11/architecting-for-latency/).
 - Michael Nygard, [Documenting Architecture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
 - Michael Nygard, Fault, Error, Failure, Availability and Stability:
