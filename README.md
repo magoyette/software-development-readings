@@ -15,7 +15,7 @@ My personal compilation of online texts about software development.
   - [Agile in General](#agile-in-general)
   - [Agile Methodologies](#agile-methodologies)
   - [Agile Practices](#agile-practices)
-  - [Agile Tips](#agile-tips)
+  - [Agile Teams](#agile-teams)
   - [Continuous Improvement](#continuous-improvement)
   - [Scrum](#scrum)
   - [Security in Agile](#security-in-agile)
@@ -116,13 +116,14 @@ My personal compilation of online texts about software development.
 - Mattias Skarin, [12 seemingly normal things Agile people do](http://blog.crisp.se/2016/04/04/mattiasskarin/12-seemingly-normal-things-agile-people-do).
 - Michael Nygard, [A Dozen Levels of Done](http://www.michaelnygard.com/blog/2007/11/a-dozen-levels-of-done/).
 
-### Agile Tips
+### Agile Teams
 
 - Jason Gorman, [The Small Teams Manifesto](http://codemanship.co.uk/parlezuml/blog/?postid=1322).
-- Martin Fowler, [FrequencyReducesDifficulty](http://martinfowler.com/bliki/FrequencyReducesDifficulty.html).
+- Mike Cohn, [Cross Functional Doesn’t Mean Everyone Can Do Everything](https://www.mountaingoatsoftware.com/blog/cross-functional-doesnt-mean-everyone-can-do-everything).
 
 ### Continuous Improvement
 
+- Martin Fowler, [FrequencyReducesDifficulty](http://martinfowler.com/bliki/FrequencyReducesDifficulty.html).
 - Michael Nygard, [In Love With Your Warts](http://www.michaelnygard.com/blog/2016/04/in-love-with-your-warts/).
 
 ### Scrum
