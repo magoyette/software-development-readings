@@ -55,6 +55,8 @@ My personal compilation of online texts about software development.
 - [Open Source Software](#open-source-software)
   - [Best Practices](#best-practices)
   - [GitHub](#github)
+- [Product Management](#product-management)
+  - [Releases](#releases)
 - [Software Architecture and Technical Leadership](#software-architecture-and-technical-leadership)
   - [Domain-Driven Design](#domain-driven-design)
   - [Microservices](#microservices)
@@ -315,6 +317,12 @@ My personal compilation of online texts about software development.
 ### GitHub
 
 - Jono Bacon, [10 tips for new GitHub projects](https://opensource.com/business/16/6/10-tips-new-github-projects).
+
+## Product Management
+
+### Releases
+
+- Jonas Downey, [How to launch software changes without pissing people off](https://m.signalvnoise.com/how-to-launch-software-changes-without-pissing-people-off-cf79dce64630).
 
 ## Software Architecture and Technical Leadership
 
