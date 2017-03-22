@@ -18,6 +18,7 @@ My personal compilation of online texts about software development.
   - [Agile Tips](#agile-tips)
   - [Continuous Improvement](#continuous-improvement)
   - [Scrum](#scrum)
+  - [Security in Agile](#security-in-agile)
 - [BDD and Specification by Example](#bdd-and-specification-by-example)
   - [BDD](#bdd)
   - [Cucumber](#cucumber)
@@ -109,7 +110,6 @@ My personal compilation of online texts about software development.
 
 ### Agile Practices
 
-- Chelsea Komlo and Maria Gomez, [Incorporating Security Best Practices into Agile Teams](https://www.thoughtworks.com/insights/blog/incorporating-security-best-practices-agile-teams).
 - Jason Yip, [It's Not Just Standing Up: Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html).
 - Mattias Skarin, [12 seemingly normal things Agile people do](http://blog.crisp.se/2016/04/04/mattiasskarin/12-seemingly-normal-things-agile-people-do).
 - Michael Nygard, [A Dozen Levels of Done](http://www.michaelnygard.com/blog/2007/11/a-dozen-levels-of-done/).
@@ -128,6 +128,11 @@ My personal compilation of online texts about software development.
 - Mike Cohn, [Choose Backlog Items That Serve Two Purposes](http://www.mountaingoatsoftware.com/blog/choose-backlog-items-that-serve-two-purposes).
 - Mike Cohn, [User Stories, Epics and Themes](https://www.mountaingoatsoftware.com/blog/stories-epics-and-themes).
 - Ralph Jocham and Henk Jan Huizer, [Gone are Release Planning and the Release Burndown](https://www.scrum.org/About/All-Articles/articleType/ArticleView/articleId/17/Gone-are-Release-Planning-and-the-Release-Burndown).
+
+### Security in Agile
+
+- Chelsea Komlo and Maria Gomez, [Incorporating Security Best Practices into Agile Teams](https://www.thoughtworks.com/insights/blog/incorporating-security-best-practices-agile-teams).
+- Gustav Boström, [Security Test-Driven Development – Spreading the STDD-virus](http://blog.crisp.se/2017/03/20/gustavbostrom/security-test-driven-development-spreading-the-std-virus).
 
 ## BDD and Specification by Example
 
