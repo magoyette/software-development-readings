@@ -187,6 +187,7 @@ My personal compilation of online texts about software development.
 ### Leadership
 
 - Michael Lopp, [Five Leadership Hacks](http://randsinrepose.com/archives/five-leadership-hacks/).
+- Michael Lopp, [The New Manager Death Spiral](http://randsinrepose.com/archives/the-new-manager-death-spiral/).
 
 ### Productivity, Creativity and Focus
 
