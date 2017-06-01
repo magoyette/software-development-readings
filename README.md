@@ -143,6 +143,7 @@ My personal compilation of online texts about software development.
 
 - Aslak Hellesøy, [Aslak's view of BDD](https://cucumber.io/blog/2015/03/27/aslaks-view-of-bdd).
 - Lisa Crispin, [Experiment with Example Mapping](http://lisacrispin.com/2016/06/02/experiment-example-mapping/).
+- Dan North, [BDD is like TDD if…](https://dannorth.net/2012/05/31/bdd-is-like-tdd-if/).
 - Dan North, [Introducing BDD](https://dannorth.net/introducing-bdd/).
 - Matt Wynne, [Introducing Example Mapping](https://cucumber.io/blog/2015/12/08/example-mapping-introduction).
 - Liz Keogh, [Step Away from the Tools](https://lizkeogh.com/2011/03/04/step-away-from-the-tools/).
