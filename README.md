@@ -75,7 +75,6 @@ My personal compilation of online texts about software development.
   - [Code Smells](#code-smells)
   - [Design Patterns](#design-patterns)
   - [Design Principles](#design-principles)
-  - [Design Tips](#design-tips)
   - [Evolutionary Design and Up-Front Design](#evolutionary-design-and-up-front-design)
   - [Inversion of Control and Dependency Injection](#inversion-of-control-and-dependency-injection)
   - [Object-Oriented Analysis and Design](#object-oriented-analysis-and-design)
@@ -260,7 +259,6 @@ My personal compilation of online texts about software development.
   - [The New Normal: Mean Time To Reaction](http://blog.cognitect.com/blog/2016/8/11/the-new-normal-mean-time-to-reaction)
   - [The New Normal: Tempo, Flow, and Maneuverability](http://blog.cognitect.com/blog/2016/8/18/the-new-normal-tempo-flow-and-maneuverability)
 - Michael Nygard, [Quantum Backups](http://www.michaelnygard.com/blog/2009/03/quantum-backups/).
-- Steve Freeman, [Test-Driven Development and Embracing Failure](http://higherorderlogic.com/2011/04/tdd-embracing-failure/).
 
 ### Continuous Delivery Infrastructure
 
@@ -438,10 +436,6 @@ My personal compilation of online texts about software development.
 - Robert Martin, [The Single Responsibility Principle](https://8thlight.com/blog/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html).
 - Sandro Mancuso, [Balanced Abstraction Principle](https://codurance.com/2015/01/27/balanced-abstraction-principle/).
 
-### Design Tips
-
-- Steve Freeman, [Unpack the bag](http://higherorderlogic.com/2008/09/unpack-the-bag/).
-
 ### Evolutionary Design and Up-Front Design
 
 - James Shore, [Design Mindsets](http://www.jamesshore.com/Blog/Design%20Mindsets.html).
@@ -490,7 +484,6 @@ My personal compilation of online texts about software development.
 - Erik Dietrich, [The Human Cost of Tech Debt](http://www.daedtech.com/human-cost-tech-debt/).
 - Henrik Kniberg, [Good and Bad Technical Debt (and how TDD helps)](http://blog.crisp.se/2013/10/11/henrikkniberg/good-and-bad-technical-debt).
 - Michael Nygard, [The Fear Cycle](http://www.michaelnygard.com/blog/2015/07/the-fear-cycle/).
-- Stephen Freeman, [Bad code isn't Technical Debt, it's an unhedged Call Option](http://higherorderlogic.com/2010/07/bad-code-isnt-technical-debt-its-an-unhedged-call-option/).
 - Tom Grant, [Technical Debt Is A Systemic Problem, Not A Personal Failing](http://www.netobjectives.com/blogs/technical-debt-systemic-problem-not-personal-failing).
 
 ## Technical Writing
