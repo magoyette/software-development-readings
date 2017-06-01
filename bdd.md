@@ -20,7 +20,7 @@
 ## Example Mapping
 
 - Lisa Crispin, [Experiment with Example Mapping](http://lisacrispin.com/2016/06/02/experiment-example-mapping/).
-- - Matt Wynne, [Introducing Example Mapping](https://cucumber.io/blog/2015/12/08/example-mapping-introduction).
+- Matt Wynne, [Introducing Example Mapping](https://cucumber.io/blog/2015/12/08/example-mapping-introduction).
 
 ## Gherkin and Given-When-Then
 
