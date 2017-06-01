@@ -13,12 +13,8 @@ My personal compilation of online texts about software development.
 
 - [Agile](#agile)
   - [Agile in General](#agile-in-general)
-  - [Agile Methodologies](#agile-methodologies)
-  - [Agile Practices](#agile-practices)
-  - [Agile Teams](#agile-teams)
-  - [Continuous Improvement](#continuous-improvement)
+  - [Cross-Functional Requirements](#cross-functional-requirements)
   - [Scrum](#scrum)
-  - [Security in Agile](#security-in-agile)
 - [BDD and Specification by Example](#bdd-and-specification-by-example)
   - [BDD](#bdd)
   - [Cucumber](#cucumber)
@@ -104,37 +100,26 @@ My personal compilation of online texts about software development.
 ### Agile in General
 
 - Dave Thomas, [Agile is Dead (Long Live Agility)](https://pragdave.me/blog/2014/03/04/time-to-kill-agile.html).
-
-### Agile Methodologies
-
 - Ben Linders, [Don't Copy the Spotify Model](https://www.infoq.com/news/2016/10/no-spotify-model).
-
-### Agile Practices
-
+- Jason Gorman, [The Small Teams Manifesto](http://codemanship.co.uk/parlezuml/blog/?postid=1322).
 - Jason Yip, [It's Not Just Standing Up: Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html).
+- Martin Fowler, [FrequencyReducesDifficulty](http://martinfowler.com/bliki/FrequencyReducesDifficulty.html).
 - Mattias Skarin, [12 seemingly normal things Agile people do](http://blog.crisp.se/2016/04/04/mattiasskarin/12-seemingly-normal-things-agile-people-do).
 - Michael Nygard, [A Dozen Levels of Done](http://www.michaelnygard.com/blog/2007/11/a-dozen-levels-of-done/).
-
-### Agile Teams
-
-- Jason Gorman, [The Small Teams Manifesto](http://codemanship.co.uk/parlezuml/blog/?postid=1322).
+- Michael Nygard, [In Love With Your Warts](http://www.michaelnygard.com/blog/2016/04/in-love-with-your-warts/).
 - Mike Cohn, [Cross Functional Doesn’t Mean Everyone Can Do Everything](https://www.mountaingoatsoftware.com/blog/cross-functional-doesnt-mean-everyone-can-do-everything).
 
-### Continuous Improvement
+### Cross-Functional Requirements
 
-- Martin Fowler, [FrequencyReducesDifficulty](http://martinfowler.com/bliki/FrequencyReducesDifficulty.html).
-- Michael Nygard, [In Love With Your Warts](http://www.michaelnygard.com/blog/2016/04/in-love-with-your-warts/).
+- Chelsea Komlo and Maria Gomez, [Incorporating Security Best Practices into Agile Teams](https://www.thoughtworks.com/insights/blog/incorporating-security-best-practices-agile-teams).
+- Gustav Boström, [Security Test-Driven Development – Spreading the STDD-virus](http://blog.crisp.se/2017/03/20/gustavbostrom/security-test-driven-development-spreading-the-std-virus).
+- Patrick Kua, [Three ways to handle CFRs](https://www.thekua.com/atwork/2017/05/three-ways-to-handle-cfrs/).
 
 ### Scrum
 
 - Mike Cohn, [Choose Backlog Items That Serve Two Purposes](http://www.mountaingoatsoftware.com/blog/choose-backlog-items-that-serve-two-purposes).
 - Mike Cohn, [User Stories, Epics and Themes](https://www.mountaingoatsoftware.com/blog/stories-epics-and-themes).
 - Ralph Jocham and Henk Jan Huizer, [Gone are Release Planning and the Release Burndown](https://www.scrum.org/About/All-Articles/articleType/ArticleView/articleId/17/Gone-are-Release-Planning-and-the-Release-Burndown).
-
-### Security in Agile
-
-- Chelsea Komlo and Maria Gomez, [Incorporating Security Best Practices into Agile Teams](https://www.thoughtworks.com/insights/blog/incorporating-security-best-practices-agile-teams).
-- Gustav Boström, [Security Test-Driven Development – Spreading the STDD-virus](http://blog.crisp.se/2017/03/20/gustavbostrom/security-test-driven-development-spreading-the-std-virus).
 
 ## BDD and Specification by Example
 
