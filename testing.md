@@ -9,6 +9,7 @@
 
 - Gojko Adzic, [Five ways to reduce the cost of large test suites](https://gojko.net/favourites/testing/agile/2016/05/24/large-test-suites.html).
 - J. B. Rainsberger, [Clearing Up the Integrated Tests Scam](http://blog.thecodewhisperer.com/permalink/clearing-up-the-integrated-tests-scam/).
+- Jason Gorman, [Do You Write Automated Tests When You Spike?](http://codemanship.co.uk/parlezuml/blog/?postid=1462).
 - Jay Fields, [Thoughts on Developer Testing](http://blog.jayfields.com/2009/02/thoughts-on-developer-testing.html).
 
 ## Contract Tests
