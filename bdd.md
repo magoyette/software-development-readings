@@ -12,6 +12,7 @@ Liz Keogh, [ATDD vs. BDD, and a potted history of some related stuff](https://li
 
 - Aslak Hellesøy, [Aslak's view of BDD](https://cucumber.io/blog/2015/03/27/aslaks-view-of-bdd).
 - Dan North, [Introducing BDD](https://dannorth.net/introducing-bdd/).
+- Liz Keogh, [It’s about the examples you can’t find, not the ones you can](https://lizkeogh.com/2012/02/20/its-about-the-examples-you-cant-find-not-the-ones-you-can/).
 - Liz Keogh, [Step Away from the Tools](https://lizkeogh.com/2011/03/04/step-away-from-the-tools/).
 - Liz Keogh, [Using BDD with Legacy Systems](https://lizkeogh.com/2014/01/22/using-bdd-with-legacy-systems/).
 
