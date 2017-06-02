@@ -2,6 +2,7 @@
 
 ## Agile
 
+- Dan North, [Introducing Deliberate Discovery](https://dannorth.net/2010/08/30/introducing-deliberate-discovery/).
 - Dave Thomas, [Agile is Dead (Long Live Agility)](https://pragdave.me/blog/2014/03/04/time-to-kill-agile.html).
 - Ben Linders, [Don't Copy the Spotify Model](https://www.infoq.com/news/2016/10/no-spotify-model).
 - Jason Gorman, [The Small Teams Manifesto](http://codemanship.co.uk/parlezuml/blog/?postid=1322).
