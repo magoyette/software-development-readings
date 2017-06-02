@@ -1,5 +1,9 @@
 # BDD
 
+## BDD and ATDD
+
+Liz Keogh, [ATDD vs. BDD, and a potted history of some related stuff](https://lizkeogh.com/2011/06/27/atdd-vs-bdd-and-a-potted-history-of-some-related-stuff/).
+
 ## BDD and TDD
 
 - Dan North, [BDD is like TDD if…](https://dannorth.net/2012/05/31/bdd-is-like-tdd-if/).
