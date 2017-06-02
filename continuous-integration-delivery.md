@@ -18,6 +18,10 @@
   - [The New Normal: Tempo, Flow, and Maneuverability](http://blog.cognitect.com/blog/2016/8/18/the-new-normal-tempo-flow-and-maneuverability)
 - Michael Nygard, [Quantum Backups](http://www.michaelnygard.com/blog/2009/03/quantum-backups/).
 
+## Continuous Delivery
+
+- Rouan Wilsenach, [QA in Production](https://martinfowler.com/articles/qa-in-production.html).
+
 ## Continuous Integration
 
 - Martin Fowler, [FeatureToggle](http://martinfowler.com/bliki/FeatureToggle.html).
