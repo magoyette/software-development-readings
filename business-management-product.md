@@ -1,4 +1,4 @@
-# Business & Product
+# Business, Management & Product
 
 ## Business Transformations
 
@@ -12,3 +12,7 @@
 ## Releases
 
 - Jonas Downey, [How to launch software changes without pissing people off](https://m.signalvnoise.com/how-to-launch-software-changes-without-pissing-people-off-cf79dce64630).
+
+## Strategy
+
+- Dan North, [Applying OKRs](https://dannorth.net/2017/05/01/applying-okrs/).
