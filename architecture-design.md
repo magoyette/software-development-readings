@@ -9,6 +9,7 @@
 ## API Design
 
 - Danilo Sato, [ParallelChange](http://martinfowler.com/bliki/ParallelChange.html).
+- Martin Fowler, [TolerantReader](https://martinfowler.com/bliki/TolerantReader.html).
 
 ## Design Patterns
 
