@@ -7,6 +7,7 @@
 ## Java
 
 - Jon Skeet, [All about java.util.Date](https://codeblog.jonskeet.uk/2017/04/23/all-about-java-util-date/).
+- Jon Skeet, [Common mistakes in date/time formatting and parsing](https://codeblog.jonskeet.uk/2015/05/05/common-mistakes-in-datetime-formatting-and-parsing/).
 - Stephen Colebourne, [Javadoc coding standards](http://blog.joda.org/2012/11/javadoc-coding-standards.html).
 
 ## Lisp
