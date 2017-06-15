@@ -60,6 +60,7 @@
 - Kristof Adriaenssens, [Synchronous communication for microservices: current status and learnings](https://developers.soundcloud.com/blog/synchronous-communication-for-microservices-current-status-and-learnings).
 - Lukasz Plotnicki, [BFF @ SoundCloud](https://www.thoughtworks.com/insights/blog/bff-soundcloud).
 - Martin Fowler, [Microservice Trade-Offs](https://martinfowler.com/articles/microservice-trade-offs.html).
+- Matt Stine, [What’s Your Decomposition Strategy?](https://builttoadapt.io/whats-your-decomposition-strategy-e19b8e72ac8f).
 - Neal Ford and Rebecca Parsons, [Microservices as an Evolutionary Architecture](https://www.thoughtworks.com/insights/blog/microservices-evolutionary-architecture).
 - Phil Calçado, Building Products at SoundCloud:
   - [Building Products at SoundCloud — Part I: Dealing with the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-1-dealing-with-the-monolith)
