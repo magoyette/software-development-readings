@@ -6,6 +6,7 @@
 
 ## Java
 
+- Jon Skeet, [All about java.util.Date](https://codeblog.jonskeet.uk/2017/04/23/all-about-java-util-date/).
 - Stephen Colebourne, [Javadoc coding standards](http://blog.joda.org/2012/11/javadoc-coding-standards.html).
 
 ## Lisp
