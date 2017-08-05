@@ -12,6 +12,10 @@
 - Jason Gorman, [Do You Write Automated Tests When You Spike?](http://codemanship.co.uk/parlezuml/blog/?postid=1462).
 - Jay Fields, [Thoughts on Developer Testing](http://blog.jayfields.com/2009/02/thoughts-on-developer-testing.html).
 
+## Characterization Testing
+
+- Michael Feathers, [Characterization Testing: Writing tests to describe and fix existing code](https://michaelfeathers.silvrback.com/characterization-testing).
+
 ## Contract Tests
 
 - Martin Fowler, [IntegrationContractTest](https://martinfowler.com/bliki/IntegrationContractTest.html).
