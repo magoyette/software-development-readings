@@ -2,6 +2,7 @@
 
 ## Clojure
 
+- James Hughes, [Reading Clojure Characters](https://clojure.org/guides/weird_characters).
 - Stuart Sierra, [How to Name Clojure Functions](https://stuartsierra.com/2016/01/09/how-to-name-clojure-functions).
 
 ## Java
