@@ -9,6 +9,7 @@
 ## API Design
 
 - Danilo Sato, [ParallelChange](http://martinfowler.com/bliki/ParallelChange.html).
+- Jason Gorman, [How To Backwards Compatibility (And Why For)](http://codemanship.co.uk/parlezuml/blog/?postid=1482).
 - Martin Fowler, [TolerantReader](https://martinfowler.com/bliki/TolerantReader.html).
 
 ## Design Patterns
