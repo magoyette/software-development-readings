@@ -87,6 +87,7 @@
 - J. B. Rainsberger, [Your Constructors are Completely Irrational](http://blog.thecodewhisperer.com/permalink/your-constructors-are-completely-irrational/).
 - Jay Fields, [Refactoring Motivations](http://blog.jayfields.com/2007/12/refactoring-motivations.html).
 - Martin Fowler, [OpportunisticRefactoring](http://martinfowler.com/bliki/OpportunisticRefactoring.html).
+- Michael Feathers, [When A Method Can Do Nothing](https://michaelfeathers.silvrback.com/when-it-s-okay-for-a-method-to-do-nothing).
 - Nat Pryce, [Complaining about Other People's Code](http://www.natpryce.com/articles/000756.html).
 - Ron Jeffries, [Refactoring -- Not on the backlog!](http://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/).
 
