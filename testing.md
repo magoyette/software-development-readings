@@ -27,7 +27,7 @@
 ## Exploratory Testing
 
 - Gojko Adzic, [Explore capabilities, not features](https://gojko.net/2015/03/12/explore-capabilities-not-features/).
-- Lisa Crispin, [Pair Testing](http://lisacrispin.com/2016/09/22/pair-testing/).
+- Lisa Crispin, [Pair Testing](http://lisacrispin.com/pair-testing/).
 
 ## Mutation Testing
 
