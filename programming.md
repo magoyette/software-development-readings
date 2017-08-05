@@ -44,6 +44,15 @@
   - [How to Make Your Open Source Project Really Awesome, Part 2](http://blog.clojurewerkz.org/blog/2014/07/20/how-to-make-your-open-source-project-really-awesome/)
 - Tom Preston-Werner, [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html).
 
+## Software Craftsmanship
+
+- Bruce Johnson, [What we learned from Google: code reviews aren’t just for catching bugs](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292#.pww8lj8nd).
+- Daniel Irvine, [The egoless programmer](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html).
+- James Gorman, [Why Software Craftsmanship Needs To Stop Worrying About The Colour Of The Bike Shed & Focus On The Big Issues](http://codemanship.co.uk/parlezuml/blog/?postid=1298).
+- Jay Fields, [Experience Report: Weak Code Ownership](http://blog.jayfields.com/2015/02/experience-report-weak-code-ownership.html).
+- Jay Fields, [Passionate, Not Dogmatic](http://blog.jayfields.com/2008/09/passionate-not-dogmatic.html).
+
+
 ## Technical Writing
 
 - Jay Fields, [Example Dilemma](http://blog.jayfields.com/2008/03/example-dilemma.html).
