@@ -9,6 +9,11 @@
 - Dariusz Pasciak, [Alternatives to boolean parameters](https://8thlight.com/blog/dariusz-pasciak/2015/05/28/alternatives-to-boolean-parameters.html).
 - Martin Fowler, [FunctionLength](https://martinfowler.com/bliki/FunctionLength.html).
 
+## Code Reviews
+
+- Bruce Johnson, [What we learned from Google: code reviews aren’t just for catching bugs](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292#.pww8lj8nd).
+- Tom O'Neill, [Code Health: Too Many Comments on Your Code Reviews?](https://testing.googleblog.com/2017/06/code-health-too-many-comments-on-your.html).
+
 ## Coding in General
 
 - Dan Luu, [Normalization of deviance in software: how broken practices become standard](https://danluu.com/wat/).
@@ -47,7 +52,6 @@
 
 ## Software Craftsmanship
 
-- Bruce Johnson, [What we learned from Google: code reviews aren’t just for catching bugs](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292#.pww8lj8nd).
 - Daniel Irvine, [The egoless programmer](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html).
 - James Gorman, [Why Software Craftsmanship Needs To Stop Worrying About The Colour Of The Bike Shed & Focus On The Big Issues](http://codemanship.co.uk/parlezuml/blog/?postid=1298).
 - Jay Fields, [Experience Report: Weak Code Ownership](http://blog.jayfields.com/2015/02/experience-report-weak-code-ownership.html).
