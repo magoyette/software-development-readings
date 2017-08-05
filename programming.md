@@ -31,6 +31,10 @@
 - Joel Spolsky, [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/).
 - Paul Graham, [Holding a Program in One's Head](http://www.paulgraham.com/head.html).
 
+## Documentation
+
+- Jennifer Riggins, [Elements of Successful Software Documentation](https://thenewstack.io/four-elements-successful-documentation/).
+
 ## Fun Stuff
 
 - Luke Maciak, [What does your favorite text editor say about you?](http://www.terminally-incoherent.com/blog/2007/08/14/what-does-your-favorite-text-editor-say-about-you/).
