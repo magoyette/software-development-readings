@@ -13,6 +13,7 @@
 
 - Dan Luu, [Normalization of deviance in software: how broken practices become standard](https://danluu.com/wat/).
 - David Cassel, [Hype-Driven Development, from Frameworks to Microservices](http://thenewstack.io/programmers-react-warning-hype-driven-development/).
+- Dori Reuveni and Kevin Bourrillion, [Code Health: To Comment or Not to Comment?](https://testing.googleblog.com/2017/07/code-health-to-comment-or-not-to-comment.html?m=1).
 - James Hague, [Don't Fall in Love With Your Technology](http://prog21.dadgum.com/128.html).
 - James Hague, [Recovering From a Computer Science Education](http://prog21.dadgum.com/123.html).
 - James Hague, [The Silent Majority of Experts](http://prog21.dadgum.com/143.html).
