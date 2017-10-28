@@ -58,6 +58,7 @@
   - [More Test Driven Development observations](http://blog.jayfields.com/2006/06/more-test-driven-development.html)
 - Nat Pryce, [Two Hypotheses per Test](http://www.natpryce.com/articles/000775.html).
 - Robert Martin, [TDD Harms Architecture](http://blog.cleancoder.com/uncle-bob/2017/03/03/TDD-Harms-Architecture.html).
+- Robert Martin, [Test Contra-variance](http://blog.cleancoder.com/uncle-bob/2017/10/03/TestContravariance.html).
 - Robert Martin, [Test First](https://8thlight.com/blog/uncle-bob/2013/09/23/Test-first.html).
 - Robert Martin, [The Cycles of TDD](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html).
 - Robert Martin, [The Frenzied Panic of Rushing](https://8thlight.com/blog/uncle-bob/2013/03/11/TheFrenziedPanicOfRushing.html).
