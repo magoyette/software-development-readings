@@ -50,6 +50,7 @@
 
 ## Inversion of Control and Dependency Injection
 
+- J. B. Rainsberger, [Keep Dependency Injection Simple](http://blog.thecodewhisperer.com/permalink/keep-dependency-injection-simple).
 - J. B. Rainsberger, [Injecting dependencies doesn't have to hurt](http://blog.thecodewhisperer.com/permalink/injecting-dependencies-doesnt-have-to-hurt/).
 - James Shore, [Dependency Injection Demystified](http://www.jamesshore.com/Blog/Dependency-Injection-Demystified.html).
 - Martin Fowler, [Inversion of Control Containers and the Dependency Injection pattern](http://www.martinfowler.com/articles/injection.html).
