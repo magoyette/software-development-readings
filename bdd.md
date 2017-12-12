@@ -10,6 +10,7 @@ Liz Keogh, [ATDD vs. BDD, and a potted history of some related stuff](https://li
 
 ## BDD in General
 
+- Andrew Knight, [BDD 101: Test Data](https://automationpanda.com/2017/08/05/handling-test-data-in-bdd/).
 - Aslak Hellesøy, [Aslak's view of BDD](https://cucumber.io/blog/2015/03/27/aslaks-view-of-bdd).
 - Dan North, [Introducing BDD](https://dannorth.net/introducing-bdd/).
 - Liz Keogh, [It’s about the examples you can’t find, not the ones you can](https://lizkeogh.com/2012/02/20/its-about-the-examples-you-cant-find-not-the-ones-you-can/).
