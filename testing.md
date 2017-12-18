@@ -46,6 +46,7 @@
 ## Test-Driven Development
 
 - J. B. Rainsberger, [How TDD Affects My Designs](http://blog.thecodewhisperer.com/permalink/how-tdd-affects-my-designs/).
+- J. B. Rainsberger, [The Myth of Advanced TDD](http://blog.thecodewhisperer.com/permalink/the-myth-of-advanced-tdd).
 - J. B. Rainsberger, [What your tests don't need to know will hurt you](http://blog.thecodewhisperer.com/permalink/what-your-tests-dont-need-to-know-will-hurt-you).
 - J. B. Rainsberger, [Your Tests Are Dragging You Down](http://blog.thecodewhisperer.com/permalink/your-tests-are-dragging-you-down/).
 - Jason Gorman, [Classic TDD Mistake - Writing Design-Driven Tests](http://codemanship.co.uk/parlezuml/blog/?postid=1375).
