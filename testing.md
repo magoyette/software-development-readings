@@ -76,6 +76,7 @@
 - Andrew Trenk, [Testing on the Toilet: Prefer Testing Public APIs Over Implementation-Detail Classes](https://testing.googleblog.com/2015/01/testing-on-toilet-prefer-testing-public.html).
 - Ben Yu, [Testing on the Toilet: Keep Cause and Effect Clear](https://testing.googleblog.com/2017/01/testing-on-toilet-keep-cause-and-effect.html).
 - Bill Wake, [3A – Arrange, Act, Assert](http://xp123.com/articles/3a-arrange-act-assert/).
+- Dave Thomas, [Testing Private Functions](https://pragdave.me/blog/2017/03/31/tesing-private-functions.html).
 - James Shore, [Testing Private Methods](http://www.jamesshore.com/Blog/Testing-Private-Methods.html).
 - Jay Fields, [Tests reflect code quality](http://blog.jayfields.com/2008/02/tests-reflect-code-quality.html).
 - Michael Feathers, [A Set of Unit Testing Rules](http://www.artima.com/weblogs/viewpost.jsp?thread=126923).
