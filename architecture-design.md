@@ -108,6 +108,7 @@
 - Martin Fowler, [SacrificialArchitecture](http://martinfowler.com/bliki/SacrificialArchitecture.html).
 - Martin Fowler, [What do you mean by “Event-Driven”?](https://martinfowler.com/articles/201701-event-driven.html).
 - Michael Feathers, [Moving Past the Scaling Myth: Discontinuous Transition in Process and Architecture](https://michaelfeathers.silvrback.com/the-myth-of-scaling).
+- Michael Feathers, [Negative Architecture: Guiding software by flipping figure and ground](https://michaelfeathers.silvrback.com/negative-architecture).
 - Michael Nygard, [Architecting for Latency](http://www.michaelnygard.com/blog/2007/11/architecting-for-latency/).
 - Michael Nygard, [Documenting Architecture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
 - Michael Nygard, Fault, Error, Failure, Availability and Stability:
