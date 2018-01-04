@@ -63,7 +63,6 @@
 - Jay Fields, [Experience Report: Weak Code Ownership](http://blog.jayfields.com/2015/02/experience-report-weak-code-ownership.html).
 - Jay Fields, [Passionate, Not Dogmatic](http://blog.jayfields.com/2008/09/passionate-not-dogmatic.html).
 
-
 ## Technical Writing
 
 - Jay Fields, [Example Dilemma](http://blog.jayfields.com/2008/03/example-dilemma.html).

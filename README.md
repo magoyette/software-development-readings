@@ -12,3 +12,4 @@ My personal compilation of online texts about software development.
 - [Programming Languages](programming-languages.md)
 - [Software Architecture & Design](architecture-design.md)
 - [Testing](testing.md)
+- [Tools](tools.md)
