@@ -68,6 +68,7 @@
 
 ## Types of Tests
 
+- Martin Fowler, [IntegrationTest](https://martinfowler.com/bliki/IntegrationTest.html).
 - Nat Pryce, [Visualising Test Terminology](http://www.natpryce.com/articles/000772.html).
 
 ## Unit Testing
