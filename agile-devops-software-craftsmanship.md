@@ -21,7 +21,6 @@
 
 ## DevOps
 
-- Elisabeth Hendrickson, [I Prefer This Over That](http://testobsessed.com/2015/05/i-prefer-this-over-that/).
 - Rouan Wilsenach, [DevOpsCulture](https://martinfowler.com/bliki/DevOpsCulture.html).
 
 ## Scrum
