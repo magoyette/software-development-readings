@@ -63,6 +63,10 @@
 - Lukasz Plotnicki, [BFF @ SoundCloud](https://www.thoughtworks.com/insights/blog/bff-soundcloud).
 - Martin Fowler, [Microservice Trade-Offs](https://martinfowler.com/articles/microservice-trade-offs.html).
 - Matt Stine, [What’s Your Decomposition Strategy?](https://builttoadapt.io/whats-your-decomposition-strategy-e19b8e72ac8f).
+- Michael Nygard, Keep 'Em Separated:
+  - [Keep ‘Em Separated](http://www.michaelnygard.com/blog/2017/11/keep-em-separated/)
+  - [The Entity Service Antipattern](http://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/)
+  - [Services by Lifecycle](http://www.michaelnygard.com/blog/2018/01/services-by-lifecycle/)
 - Neal Ford and Rebecca Parsons, [Microservices as an Evolutionary Architecture](https://www.thoughtworks.com/insights/blog/microservices-evolutionary-architecture).
 - Phil Calçado, Building Products at SoundCloud:
   - [Building Products at SoundCloud — Part I: Dealing with the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-1-dealing-with-the-monolith)
