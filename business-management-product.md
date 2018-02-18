@@ -9,6 +9,10 @@
 
 - Brian Chesky, [Don’t Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4#.ol8414xuy).
 
+## Hiring
+
+- Scott E Page, [Why hiring the ‘best’ people produces the least creative results](https://aeon.co/ideas/why-hiring-the-best-people-produces-the-least-creative-results).
+
 ## Releases
 
 - Jonas Downey, [How to launch software changes without pissing people off](https://m.signalvnoise.com/how-to-launch-software-changes-without-pissing-people-off-cf79dce64630).
