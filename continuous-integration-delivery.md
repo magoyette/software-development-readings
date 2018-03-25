@@ -20,6 +20,7 @@
 
 ## Continuous Delivery
 
+- Gojko Adzic, [Error Mining: The key for solving Rumsfeld problems in modern software](https://gojko.net/2018/03/24/error-mining.html).
 - Rouan Wilsenach, [QA in Production](https://martinfowler.com/articles/qa-in-production.html).
 
 ## Continuous Integration
