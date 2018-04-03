@@ -68,7 +68,7 @@
 
 ## Types of Tests
 
-- Ham Vocke, [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html#ContractTests): A long article with examples about the most common types of tests: unit, integration, contract, UI, end-to-end, acceptance and exploratory.
+- Ham Vocke, [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html#ContractTests). A long article with examples about the most common types of tests: unit, integration, contract, UI, end-to-end, acceptance and exploratory.
 - Martin Fowler, [IntegrationTest](https://martinfowler.com/bliki/IntegrationTest.html).
 - Nat Pryce, [Visualising Test Terminology](http://www.natpryce.com/articles/000772.html).
 
