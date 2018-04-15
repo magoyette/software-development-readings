@@ -13,6 +13,10 @@
 - Michael Nygard, [In Love With Your Warts](http://www.michaelnygard.com/blog/2016/04/in-love-with-your-warts/).
 - Mike Cohn, [Cross Functional Doesn’t Mean Everyone Can Do Everything](https://www.mountaingoatsoftware.com/blog/cross-functional-doesnt-mean-everyone-can-do-everything).
 
+## Continuous Improvement
+
+- John Allspaw, [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/).
+
 ## Cross-Functional Requirements
 
 - Chelsea Komlo and Maria Gomez, [Incorporating Security Best Practices into Agile Teams](https://www.thoughtworks.com/insights/blog/incorporating-security-best-practices-agile-teams).
