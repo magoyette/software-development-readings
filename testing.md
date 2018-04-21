@@ -66,6 +66,10 @@
 - Robert Martin, [The Pragmatics of TDD](https://8thlight.com/blog/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html).
 - Robert Martin, [When Should You Think?](https://8thlight.com/blog/uncle-bob/2014/03/11/when-to-think.html).
 
+## Testing in Production
+
+- Cindy Sridharan, [Testing Microservices, the sane way](https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16).
+
 ## Types of Tests
 
 - Ham Vocke, [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html#ContractTests). A long article with examples about the most common types of tests: unit, integration, contract, UI, end-to-end, acceptance and exploratory.
