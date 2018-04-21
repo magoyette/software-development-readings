@@ -7,6 +7,7 @@
 ## Clean Code & Good Practices
 
 - Chris Lewis and Bob Nystrom, [Code Health: IdentifierNamingPostForWorldWideWebBlog](https://testing.googleblog.com/2017/10/code-health-identifiernamingpostforworl.html).
+- Cindy Sridharan, [Small Functions considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29).
 - Dariusz Pasciak, [Alternatives to boolean parameters](https://8thlight.com/blog/dariusz-pasciak/2015/05/28/alternatives-to-boolean-parameters.html).
 - Martin Fowler, [FunctionLength](https://martinfowler.com/bliki/FunctionLength.html).
 
