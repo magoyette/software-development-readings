@@ -125,18 +125,6 @@
 - Robert Martin, [Service Oriented Agony](https://8thlight.com/blog/uncle-bob/2012/02/01/Service-Oriented-Agony.html).
 - Robert Martin, [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html).
 
-## Tech Leads
-
-- Patrick Kua, [3 Tips for building a Technical Vision](https://www.thekua.com/atwork/2016/03/3-tips-for-building-a-technical-vision/).
-- Patrick Kua, [A Tech Lead Paradox: Consistency vs Improvement](https://www.thekua.com/atwork/2014/11/a-tech-lead-paradox-consistency-vs-improvement/).
-- Patrick Kua, [A Tech Lead Paradox: Delivering vs Learning](https://www.thekua.com/atwork/2014/11/a-tech-lead-paradox-delivering-vs-learning/).
-- Patrick Kua, [A Tech Lead Paradox: Technical Needs vs Business Needs](https://www.thekua.com/atwork/2014/12/a-tech-lead-paradox-technical-needs-vs-business-needs/).
-- Patrick Kua, [How do I still write code as a Tech Lead?](https://www.thekua.com/atwork/2014/11/how-do-i-still-write-code-as-a-tech-lead/).
-- Patrick Kua, [Tech Lead – Circles of Responsibility](https://www.thekua.com/atwork/2015/06/tech-lead-circles-of-responsibility/).
-- Patrick Kua, [The Definition of a Tech Lead](https://www.thekua.com/atwork/2014/11/the-definition-of-a-tech-lead/).
-- Patrick Kua, [Top 5 Mistakes for First Time Tech Leads](https://www.thekua.com/atwork/2014/10/top-5-mistakes-for-first-time-tech-leads/).
-- Patrick Kua, [You may not need a Tech Lead, but others do](https://www.thekua.com/atwork/2016/12/you-may-not-need-a-tech-lead-but-others-do/).
-
 ## Technical Debt
 
 - Bill Clark, [A Taxonomy of Tech Debt](https://engineering.riotgames.com/news/taxonomy-tech-debt).
