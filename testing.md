@@ -68,6 +68,7 @@
 
 ## Testing in Production
 
+- Cindy Sridharan, [Testing in Production, the safe way](https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1).
 - Cindy Sridharan, [Testing Microservices, the sane way](https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16).
 
 ## Types of Tests
