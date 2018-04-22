@@ -10,6 +10,7 @@ My personal compilation of online texts about software development.
 - [Leadership](leadership.md)
 - [Programming](programming.md)
 - [Programming Languages](programming-languages.md)
+- [Remote Work](remote-work.md)
 - [Software Architecture & Design](architecture-design.md)
 - [Testing](testing.md)
 - [Tools](tools.md)
