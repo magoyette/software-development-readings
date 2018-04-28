@@ -37,3 +37,4 @@
 - Patrick Kua, [The Definition of a Tech Lead](https://www.thekua.com/atwork/2014/11/the-definition-of-a-tech-lead/).
 - Patrick Kua, [Top 5 Mistakes for First Time Tech Leads](https://www.thekua.com/atwork/2014/10/top-5-mistakes-for-first-time-tech-leads/).
 - Patrick Kua, [You may not need a Tech Lead, but others do](https://www.thekua.com/atwork/2016/12/you-may-not-need-a-tech-lead-but-others-do/).
+- Peter Gillard-Moss, [Techie to tech lead: My five biggest mistakes](https://www.thoughtworks.com/insights/blog/techie-tech-lead-my-5-biggest-mistakes).
