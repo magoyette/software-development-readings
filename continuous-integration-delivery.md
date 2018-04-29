@@ -49,4 +49,5 @@
 - Dan Luu, [Advantages of monolithic version control](http://danluu.com/monorepo/).
 - Martin Fowler, [FeatureBranch](http://martinfowler.com/bliki/FeatureBranch.html).
 - Martin Fowler, [SemanticConflict](http://martinfowler.com/bliki/SemanticConflict.html).
+- Paul Hammant, Steve Smith and friends, [Trunk Based Development](https://trunkbaseddevelopment.com/).
 - Rachel Potvin and Josh Levenberg, [Why Google Stores Billions of Lines of Code in a Single Repository](http://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext).
