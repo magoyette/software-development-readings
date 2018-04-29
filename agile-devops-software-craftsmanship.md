@@ -12,6 +12,7 @@
 - Michael Nygard, [A Dozen Levels of Done](http://www.michaelnygard.com/blog/2007/11/a-dozen-levels-of-done/).
 - Michael Nygard, [In Love With Your Warts](http://www.michaelnygard.com/blog/2016/04/in-love-with-your-warts/).
 - Mike Cohn, [Cross Functional Doesn’t Mean Everyone Can Do Everything](https://www.mountaingoatsoftware.com/blog/cross-functional-doesnt-mean-everyone-can-do-everything).
+- Mike Cohn, [Four Quick Ways to Gain or Assess Team Consensus](https://www.mountaingoatsoftware.com/blog/four-quick-ways-to-gain-or-assess-team-consensus).
 
 ## Continuous Improvement
 
