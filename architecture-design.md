@@ -75,6 +75,7 @@
   - [Building Products at SoundCloud — Part III: Microservices in Scala and Finagle](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-3-microservices-in-scala-and-finagle)
 - Simon Brown, [Distributed big balls of mud](http://www.codingthearchitecture.com/2014/07/06/distributed_big_balls_of_mud.html).
 - Tom Stuart, [Microservices and the monolith](https://developers.soundcloud.com/blog/microservices-and-the-monolith).
+- Zhamak Dehghani, [How to break a Monolith into Microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html).
 
 ## Object-Oriented Analysis and Design
 
