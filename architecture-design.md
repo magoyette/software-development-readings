@@ -68,6 +68,7 @@
   - [Keep ‘Em Separated](http://www.michaelnygard.com/blog/2017/11/keep-em-separated/)
   - [The Entity Service Antipattern](http://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/)
   - [Services by Lifecycle](http://www.michaelnygard.com/blog/2018/01/services-by-lifecycle/)
+  - [Evolving Away From Entities](http://www.michaelnygard.com/blog/2018/04/evolving-away-from-entities/)
 - Neal Ford and Rebecca Parsons, [Microservices as an Evolutionary Architecture](https://www.thoughtworks.com/insights/blog/microservices-evolutionary-architecture).
 - Phil Calçado, Building Products at SoundCloud:
   - [Building Products at SoundCloud — Part I: Dealing with the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-1-dealing-with-the-monolith)
