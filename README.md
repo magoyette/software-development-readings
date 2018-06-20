@@ -8,6 +8,7 @@ My personal compilation of online texts about software development.
 - [Continuous Integration & Delivery](continuous-integration-delivery.md)
 - [Databases](databases.md)
 - [Leadership](leadership.md)
+- [Product](product.md)
 - [Programming](programming.md)
 - [Programming Languages](programming-languages.md)
 - [Remote Work](remote-work.md)
