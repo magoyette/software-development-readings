@@ -40,6 +40,7 @@
 
 ## Test Doubles
 
+- Dillon Bly, [Testing on the Toilet: Only Verify Relevant Method Arguments](https://testing.googleblog.com/2018/06/testing-on-toilet-only-verify-relevant.html).
 - J. B. Rainsberger, [When is it safe to introduce test doubles?](http://blog.thecodewhisperer.com/permalink/when-is-it-safe-to-introduce-test-doubles/).
 - Martin Fowler, [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html).
 - Robert Martin, [When to Mock](https://8thlight.com/blog/uncle-bob/2014/05/10/WhenToMock.html).
