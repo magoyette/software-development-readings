@@ -9,6 +9,10 @@
 
 - Brian Chesky, [Don’t Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4#.ol8414xuy).
 
+## Decision Making
+
+- Max Williams, [Writing great proposals to speed up decisions](https://medium.com/@maxthelion/writing-proposals-to-speed-up-decisions-8a13d4122649).
+
 ## Hiring
 
 - Scott E Page, [Why hiring the ‘best’ people produces the least creative results](https://aeon.co/ideas/why-hiring-the-best-people-produces-the-least-creative-results).
