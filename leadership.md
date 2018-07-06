@@ -13,6 +13,10 @@
 
 - Max Williams, [Writing great proposals to speed up decisions](https://medium.com/@maxthelion/writing-proposals-to-speed-up-decisions-8a13d4122649).
 
+## Feedback
+
+- Michael Lopp, [Say the Hard Thing](http://randsinrepose.com/archives/say-the-hard-thing/).
+
 ## Hiring
 
 - Scott E Page, [Why hiring the ‘best’ people produces the least creative results](https://aeon.co/ideas/why-hiring-the-best-people-produces-the-least-creative-results).
