@@ -25,6 +25,10 @@
 
 - Jonas Downey, [How to launch software changes without pissing people off](https://m.signalvnoise.com/how-to-launch-software-changes-without-pissing-people-off-cf79dce64630).
 
+## Remote Work
+
+- Chelsea Troy, [How do we make remote meetings not suck?](https://chelseatroy.com/2018/04/05/how-do-we-make-remote-meetings-not-suck/).
+
 ## Strategy
 
 - Dan North, [Applying OKRs](https://dannorth.net/2017/05/01/applying-okrs/).
