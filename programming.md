@@ -35,6 +35,10 @@
 - Michel Martens, [Popularity](http://soveran.com/popularity.html).
 - Paul Graham, [Holding a Program in One's Head](http://www.paulgraham.com/head.html).
 
+## Date and Time
+
+- Zach Holman, [UTC is enough for everyone ...right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right).
+
 ## Documentation
 
 - Jennifer Riggins, [Elements of Successful Software Documentation](https://thenewstack.io/four-elements-successful-documentation/).
