@@ -30,12 +30,13 @@
 - Robert Martin, [The Single Responsibility Principle](https://8thlight.com/blog/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html).
 - Sandro Mancuso, [Balanced Abstraction Principle](https://codurance.com/2015/01/27/balanced-abstraction-principle/).
 
-## Domain-Driven Design
+## Domain-Driven Design & Event Sourcing
 
 - Alberto Brandolini, [Introducing Event Storming](http://ziobrando.blogspot.ca/2013/11/introducing-event-storming.html).
 - Martin Fowler, [BoundedContext](http://martinfowler.com/bliki/BoundedContext.html).
 - Martin Fowler, [CQRS](https://martinfowler.com/bliki/CQRS.html).
 - Martin Fowler, [EvansClassification](http://martinfowler.com/bliki/EvansClassification.html).
+- Martin Fowler, [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html).
 - Martin Fowler, [ValueObject](http://martinfowler.com/bliki/ValueObject.html).
 
 ## Evolutionary Design and Up-Front Design
