@@ -33,6 +33,7 @@
 ## Domain-Driven Design & Event Sourcing
 
 - Alberto Brandolini, [Introducing Event Storming](http://ziobrando.blogspot.ca/2013/11/introducing-event-storming.html).
+- Hugo Rocha, [What they don’t tell you about event sourcing](https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a).
 - Martin Fowler, [BoundedContext](http://martinfowler.com/bliki/BoundedContext.html).
 - Martin Fowler, [CQRS](https://martinfowler.com/bliki/CQRS.html).
 - Martin Fowler, [EvansClassification](http://martinfowler.com/bliki/EvansClassification.html).
