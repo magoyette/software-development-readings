@@ -59,6 +59,7 @@
 - Jay Fields, Some Test Driven Development observations:
   - [Some Test Driven Development observations](http://blog.jayfields.com/2006/06/some-test-driven-development.html)
   - [More Test Driven Development observations](http://blog.jayfields.com/2006/06/more-test-driven-development.html)
+- Kent Beck, [test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864).
 - Nat Pryce, [Two Hypotheses per Test](http://www.natpryce.com/articles/000775.html).
 - Robert Martin, [TDD Harms Architecture](http://blog.cleancoder.com/uncle-bob/2017/03/03/TDD-Harms-Architecture.html).
 - Robert Martin, [Test Contra-variance](http://blog.cleancoder.com/uncle-bob/2017/10/03/TestContravariance.html).
