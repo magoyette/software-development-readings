@@ -60,6 +60,7 @@
 - Michael Klishin, How to Make Your Open Source Project Really Awesome:
   - [How to Make Your Open Source Project Really Awesome](http://blog.clojurewerkz.org/blog/2013/04/20/how-to-make-your-open-source-project-really-awesome/)
   - [How to Make Your Open Source Project Really Awesome, Part 2](http://blog.clojurewerkz.org/blog/2014/07/20/how-to-make-your-open-source-project-really-awesome/)
+- Rich Hickey, [Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9).
 - Tom Preston-Werner, [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html).
 
 ## Software Craftsmanship
