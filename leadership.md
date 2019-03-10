@@ -1,5 +1,9 @@
 # Leadership
 
+## 1:1s
+
+- Lara Hogan, [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/).
+
 ## Business Transformations
 
 - Jurgen Appelo, [How to Save Your Business](http://noop.nl/2016/04/how-to-save-your-business.html).
