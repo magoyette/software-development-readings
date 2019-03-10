@@ -9,6 +9,10 @@
 - Jurgen Appelo, [How to Save Your Business](http://noop.nl/2016/04/how-to-save-your-business.html).
 - Michael Nygard, [Beyond the Village](http://www.michaelnygard.com/blog/2008/07/beyond-the-village/).
 
+## Changes
+
+- Dale H. Emery, [Resistance as a Resource](http://dhemery.com/articles/resistance_as_a_resource/).
+
 ## Company Culture
 
 - Brian Chesky, [Don’t Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4#.ol8414xuy).
