@@ -16,6 +16,7 @@
 ## Company Culture
 
 - Brian Chesky, [Don’t Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4#.ol8414xuy).
+- Jocelyn Goldfein, [Culture is the Behavior You Reward and Punish](https://jocelyngoldfein.com/culture-is-the-behavior-you-reward-and-punish-7e8e75c6543e).
 
 ## Decision Making
 
