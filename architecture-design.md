@@ -123,7 +123,7 @@
 - Michael Nygard, [Architecting for Latency](http://www.michaelnygard.com/blog/2007/11/architecting-for-latency/).
 - Michael Nygard, [Documenting Architecture Decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
 - Michael Nygard, Fault, Error, Failure, Availability and Stability:
-  - [Fault, Error, Failure](http://www.michaelnygard.com/blog/2016/11/fault/)
+  - [Fault, Error, Failure](https://www.michaelnygard.com/blog/2016/11/fault-error-failure/)
   - [Availability and Stability](http://www.michaelnygard.com/blog/2016/11/availability-and-stability/)
 - Michael Nygard, [The Perils of Semantic Coupling](http://www.michaelnygard.com/blog/2015/04/the-perils-of-semantic-coupling/).
 - Neal Ford, [Why Everyone (Eventually) Hates (or Leaves) Maven](http://nealford.com/memeagora/2013/01/22/why_everyone_eventually_hates_maven.html).
