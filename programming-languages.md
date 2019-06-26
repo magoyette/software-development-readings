@@ -14,7 +14,6 @@
 
 ## Lisp
 
-- Mark Tarver, [The Bipolar Lisp Programmer](http://www.shenlanguage.org/lambdassociates/htdocs/blog/bipolar.htm).
 - Rudolf Winestock, [The Lisp Curse](http://winestockwebdesign.com/Essays/Lisp_Curse.html).
 
 ## Programming Languages in General
