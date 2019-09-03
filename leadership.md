@@ -34,6 +34,7 @@
 ## Management
 
 - Emel Dogrusoz, [Advice to Management Teams While Enrolling Changes to On-Call Systems](https://thenewstack.io/advice-management-teams-enrolling-changes-on-call-systems/).
+- Michael Lopp, [Spidey-Sense](https://randsinrepose.com/archives/spidey-sense/).
 
 ## Meetings
 
