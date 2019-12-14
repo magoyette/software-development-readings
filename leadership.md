@@ -12,7 +12,6 @@
 ## Changes
 
 - Dale H. Emery, [Resistance as a Resource](http://dhemery.com/articles/resistance_as_a_resource/).
-- Lawrence Krubner, [Why are large companies so difficult to rescue (regarding bad internal technology)](http://www.smashcompany.com/business/why-are-large-companies-so-difficult-to-rescue-regarding-bad-internal-technology).
 
 ## Company Culture
 

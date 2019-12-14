@@ -43,10 +43,6 @@
 
 - Jennifer Riggins, [Elements of Successful Software Documentation](https://thenewstack.io/four-elements-successful-documentation/).
 
-## Fun Stuff
-
-- Luke Maciak, [What does your favorite text editor say about you?](http://www.terminally-incoherent.com/blog/2007/08/14/what-does-your-favorite-text-editor-say-about-you/).
-
 ## GitHub
 
 - Jono Bacon, [10 tips for new GitHub projects](https://opensource.com/business/16/6/10-tips-new-github-projects).
