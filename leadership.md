@@ -34,14 +34,11 @@
 
 - Emel Dogrusoz, [Advice to Management Teams While Enrolling Changes to On-Call Systems](https://thenewstack.io/advice-management-teams-enrolling-changes-on-call-systems/).
 - Michael Lopp, [Spidey-Sense](https://randsinrepose.com/archives/spidey-sense/).
+- Michael Lopp, [The Blue Tape List](https://randsinrepose.com/archives/the-blue-tape-list/).
 
 ## Meetings
 
 - Lara Hogan, [On Better Meetings](https://larahogan.me/blog/better-meetings/).
-
-## Releases
-
-- Jonas Downey, [How to launch software changes without pissing people off](https://m.signalvnoise.com/how-to-launch-software-changes-without-pissing-people-off-cf79dce64630).
 
 ## Remote Work
 
