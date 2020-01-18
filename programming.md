@@ -59,6 +59,10 @@
 - Rich Hickey, [Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9).
 - Tom Preston-Werner, [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html).
 
+## Pair Programming
+
+- Birgitta Böckeler and Nina Siessegger, [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html).
+
 ## Software Craftsmanship
 
 - Daniel Irvine, [The egoless programmer](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html).
