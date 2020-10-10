@@ -62,6 +62,7 @@
 
 ## Microservices
 
+- Kent Beck, [Monolith -> Services: Theory & Practice](https://medium.com/@kentbeck_7670/monolith-services-theory-practice-617e4546a879).
 - Kristof Adriaenssens, [Synchronous communication for microservices: current status and learnings](https://developers.soundcloud.com/blog/synchronous-communication-for-microservices-current-status-and-learnings).
 - Lukasz Plotnicki, [BFF @ SoundCloud](https://www.thoughtworks.com/insights/blog/bff-soundcloud).
 - Martin Fowler, [Microservice Trade-Offs](https://martinfowler.com/articles/microservice-trade-offs.html).
