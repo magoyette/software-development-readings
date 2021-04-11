@@ -50,7 +50,6 @@
 
 ## Tech Leads
 
-- Avleen Vig, [The Senior Engineer’s Guide to Helping Others Make Decisions](http://silverwraith.com/blog/2017/10/the-senior-engineers-guide-to-helping-others-make-decisions/).
 - Patrick Kua, [3 Tips for building a Technical Vision](https://www.thekua.com/atwork/2016/03/3-tips-for-building-a-technical-vision/).
 - Patrick Kua, [A Tech Lead Paradox: Consistency vs Improvement](https://www.thekua.com/atwork/2014/11/a-tech-lead-paradox-consistency-vs-improvement/).
 - Patrick Kua, [A Tech Lead Paradox: Delivering vs Learning](https://www.thekua.com/atwork/2014/11/a-tech-lead-paradox-delivering-vs-learning/).

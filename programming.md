@@ -13,7 +13,6 @@
 
 ## Code Reviews
 
-- Bruce Johnson, [What we learned from Google: code reviews aren’t just for catching bugs](https://blog.fullstory.com/what-we-learned-from-google-code-reviews-arent-just-for-catching-bugs-b125a13aa292#.pww8lj8nd).
 - Szczepan Faber, [LinkedIn’s Tips for Highly Effective Code Review](https://thenewstack.io/linkedin-code-review/).
 - Tom O'Neill, [Code Health: Too Many Comments on Your Code Reviews?](https://testing.googleblog.com/2017/06/code-health-too-many-comments-on-your.html).
 
