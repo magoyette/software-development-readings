@@ -66,7 +66,7 @@
 - Kristof Adriaenssens, [Synchronous communication for microservices: current status and learnings](https://developers.soundcloud.com/blog/synchronous-communication-for-microservices-current-status-and-learnings).
 - Lukasz Plotnicki, [BFF @ SoundCloud](https://www.thoughtworks.com/insights/blog/bff-soundcloud).
 - Martin Fowler, [Microservice Trade-Offs](https://martinfowler.com/articles/microservice-trade-offs.html).
-- Matt Stine, [What’s Your Decomposition Strategy?](https://builttoadapt.io/whats-your-decomposition-strategy-e19b8e72ac8f).
+- Matt Stine, [What’s Your Decomposition Strategy?](https://medium.com/built-to-adapt/whats-your-decomposition-strategy-e19b8e72ac8f).
 - Michael Nygard, Keep 'Em Separated:
   - [Keep ‘Em Separated](http://www.michaelnygard.com/blog/2017/11/keep-em-separated/)
   - [The Entity Service Antipattern](http://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/)
