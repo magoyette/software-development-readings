@@ -15,3 +15,15 @@ My personal compilation of online texts about software development.
 - [Software Architecture & Design](architecture-design.md)
 - [Testing](testing.md)
 - [Tools](tools.md)
+
+## Validating links
+
+Links can be valided with the Bash script `check-links`, that requires the Node package `markdown-link-check`.
+
+```shell
+# Install markdown-link-check
+npm install -g markdown-link-check
+
+# Verify the urls of the links
+./check-links
+```

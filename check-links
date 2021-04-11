@@ -1,7 +1,3 @@
 #!/bin/sh
-
 # Validate links with https://github.com/tcort/markdown-link-check
-for file in *.md; do
-  echo "Check links for $file"
-  markdown-link-check "$file"
-done
+find . -name \*.md -exec markdown-link-check {} \;
