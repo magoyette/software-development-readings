@@ -7,6 +7,7 @@
 
 ## Java
 
+- Dávid Csákvári, [A categorized list of all Java and JVM features since JDK 8 to 16](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/).
 - Jon Skeet, [All about java.util.Date](https://codeblog.jonskeet.uk/2017/04/23/all-about-java-util-date/).
 - Jon Skeet, [Common mistakes in date/time formatting and parsing](https://codeblog.jonskeet.uk/2015/05/05/common-mistakes-in-datetime-formatting-and-parsing/).
 - Sarika Sinha, [Debugging the Eclipse IDE for Java Developers](https://www.eclipse.org/community/eclipse_newsletter/2017/june/article1.php).
