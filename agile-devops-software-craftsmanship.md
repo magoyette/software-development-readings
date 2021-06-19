@@ -17,6 +17,7 @@
 ## Continuous Improvement
 
 - John Allspaw, [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/).
+- Michael Nygard, [Counterfactuals are not Causality](https://www.michaelnygard.com/blog/2021/06/counterfactuals-are-not-causality/).
 
 ## Cross-Functional Requirements
 
