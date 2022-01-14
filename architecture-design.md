@@ -116,6 +116,7 @@
 
 ## Software Architecture
 
+- Brandon Byars, [You Can't Buy Integration](https://martinfowler.com/articles/cant-buy-integration.html).
 - Martin Fowler, [InternalReprogrammability](http://martinfowler.com/bliki/InternalReprogrammability.html).
 - Martin Fowler, [SacrificialArchitecture](http://martinfowler.com/bliki/SacrificialArchitecture.html).
 - Martin Fowler, [What do you mean by “Event-Driven”?](https://martinfowler.com/articles/201701-event-driven.html).
