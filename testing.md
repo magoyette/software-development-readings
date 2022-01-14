@@ -30,6 +30,10 @@
 - Gojko Adzic, [Explore capabilities, not features](https://gojko.net/2015/03/12/explore-capabilities-not-features/).
 - Lisa Crispin, [Pair Testing](http://lisacrispin.com/pair-testing/).
 
+## Microservices Testing
+
+- André Schaffer, [Testing of Microservices](https://engineering.atspotify.com/2018/01/11/testing-of-microservices/).
+
 ## Mutation Testing
 
 - Robert Martin, [Mutation Testing](http://blog.cleancoder.com/uncle-bob/2016/06/10/MutationTesting.html).
