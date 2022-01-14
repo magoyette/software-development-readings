@@ -33,6 +33,7 @@
 ## Microservices Testing
 
 - André Schaffer, [Testing of Microservices](https://engineering.atspotify.com/2018/01/11/testing-of-microservices/).
+- Lee Eason, [The Test Automation Diamond](https://eason.blog/posts/2020/03/test-automation-diamond/).
 
 ## Mutation Testing
 
