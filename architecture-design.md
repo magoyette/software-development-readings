@@ -15,7 +15,7 @@
 
 ## Design Patterns
 
-- Robert Martin, [The Little Singleton](https://8thlight.com/blog/uncle-bob/2015/06/30/the-little-singleton.html).
+- Robert Martin, [The Little Singleton](http://blog.cleancoder.com/uncle-bob/2015/07/01/TheLittleSingleton.html).
 
 ## Design Principles
 
@@ -26,8 +26,8 @@
 - Martin Fowler, [BeckDesignRules](http://martinfowler.com/bliki/BeckDesignRules.html).
 - Martin Fowler, [TellDontAsk](http://martinfowler.com/bliki/TellDontAsk.html).
 - Martin Fowler, [Yagni](http://martinfowler.com/bliki/Yagni.html).
-- Robert Martin, [The Open Closed Principle](https://8thlight.com/blog/uncle-bob/2014/05/12/TheOpenClosedPrinciple.html).
-- Robert Martin, [The Single Responsibility Principle](https://8thlight.com/blog/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html).
+- Robert Martin, [The Open Closed Principle](http://blog.cleancoder.com/uncle-bob/2014/05/12/TheOpenClosedPrinciple.html).
+- Robert Martin, [The Single Responsibility Principle](http://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html).
 - Sandro Mancuso, [Balanced Abstraction Principle](https://codurance.com/2015/01/27/balanced-abstraction-principle/).
 
 ## Domain-Driven Design & Event Sourcing
@@ -92,7 +92,7 @@
 
 ## Object-Oriented Programming and Relational Databases
 
-- Robert Martin, [Dance you Imps!](https://8thlight.com/blog/uncle-bob/2013/10/01/Dance-You-Imps.html).
+- Robert Martin, [Dance you Imps!](http://blog.cleancoder.com/uncle-bob/2013/10/01/Dance-You-Imps.html).
 
 ## Refactoring
 
@@ -130,8 +130,8 @@
 - Michael Nygard, [The Perils of Semantic Coupling](http://www.michaelnygard.com/blog/2015/04/the-perils-of-semantic-coupling/).
 - Neal Ford, [Why Everyone (Eventually) Hates (or Leaves) Maven](http://nealford.com/memeagora/2013/01/22/why_everyone_eventually_hates_maven.html).
 - Patrick Kua, [The Well Rounded Architect](https://www.thekua.com/atwork/2016/11/the-well-rounded-architect/).
-- Robert Martin, [Service Oriented Agony](https://8thlight.com/blog/uncle-bob/2012/02/01/Service-Oriented-Agony.html).
-- Robert Martin, [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html).
+- Robert Martin, [Service Oriented Agony](http://blog.cleancoder.com/uncle-bob/2012/02/01/Service-Oriented-Agony.html).
+- Robert Martin, [The Clean Architecture](http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html).
 
 ## Technical Debt
 
@@ -141,5 +141,4 @@
 - Henrik Kniberg, [Good and Bad Technical Debt (and how TDD helps)](http://blog.crisp.se/2013/10/11/henrikkniberg/good-and-bad-technical-debt).
 - Michael Feathers, [Toward a Galvanizing Definition of Technical Debt](https://michaelfeathers.silvrback.com/toward-a-galvanizing-definition-of-technical-debt).
 - Michael Nygard, [The Fear Cycle](http://www.michaelnygard.com/blog/2015/07/the-fear-cycle/).
-- Tom Grant, [Technical Debt Is A Systemic Problem, Not A Personal Failing](http://www.netobjectives.com/blogs/technical-debt-systemic-problem-not-personal-failing).
 - Will Larson, [Migrations: the sole scalable fix to tech debt.](https://lethain.com//migrations/).
