@@ -1,3 +1,3 @@
 #!/bin/sh
 # Validate links with https://github.com/tcort/markdown-link-check
-find . -name \*.md -exec markdown-link-check {} \;
+find . -name \*.md -exec markdown-link-check -q {} \;
